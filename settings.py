@@ -102,7 +102,7 @@ DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = ''
+MAIN_ENTITY_WEB_URL     = 'http://www.moralzarzal.es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_LEGAL_URL   = ''
@@ -111,7 +111,7 @@ MAIN_ENTITY_LEGAL_URL   = ''
 MAIN_ENTITY_PRIVACY_URL = ''
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = ''
+COOKIES_URL             = 'http://www.moralzarzal.es/politica-de-cookies/'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
