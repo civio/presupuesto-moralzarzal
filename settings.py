@@ -78,7 +78,7 @@ SHOW_PAYMENTS = True
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
   ('es', 'Castellano'),
-  ('en', 'English'),
+  # ('en', 'English'),
   # ('ca', 'Catal&agrave;'),
   # ('eu', 'Euskera'),
   # ('gl', 'Galego'),
