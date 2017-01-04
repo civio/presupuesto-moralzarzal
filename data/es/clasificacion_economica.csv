@@ -522,31 +522,8 @@ G,9,4,0,Devolución de depósitos
 G,9,4,1,Devolución de fianzas
 #
 #
-# Conceptos específicos de Arona
+# Conceptos específicos de Moralzarzal
 #
-I,4,1,0,De organismos autónomos de la entidad local
-I,4,1,1,Otras transferencias
-I,4,6,0,De entidades locales
-I,4,7,0,De empresas privadas
-I,4,8,0,De familias e instituciones sin fines de lucro
-I,5,2,0,Intereses de depósitos
-I,5,3,0,Dividendos
-I,7,1,0,De organismos autónomos de la entidad local
-I,7,7,0,De empresas privadas
-I,7,8,0,De familias e instituciones sin fines de lucro
-G,4,1,0,A organismos autónomos de la entidad local
-G,4,8,0,A familias e instituciones sin fines de lucro
-G,4,6,0,A otras entidades locales
-G,4,6,9,A otras entidades locales
-G,2,6,0,Trabajos realizados por instituciones sin fines de lucro
-G,4,8,1,Subvenciones y premios
-G,4,8,2,A familias e instituciones sin fines de lucro
-G,4,8,3,Convenio Archivo Diocesano
-G,6,0,1,Otras inversiones
-G,6,0,2,Inversión nueva en infraestructuras y bienes destinados al uso general
-G,6,0,6,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
-G,6,0,8,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
-G,6,1,0,Inversiones de reposición de infraestructuras y bienes destinados al uso general
-G,6,1,1,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general
-G,6,5,9,Inversiones gestionadas para otros entes públicos
-G,7,8,0,A familias e instituciones sin fines de lucro
+I,4,8,0,"A familias e instituciones sin fines de lucro"
+I,5,2,0,"Intereses de depósitos"
+G,4,8,9,"Otras transferencias corrientes a familias e instituciones sin fines de lucro"
