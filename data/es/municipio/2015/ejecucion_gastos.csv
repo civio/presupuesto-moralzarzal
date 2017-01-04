@@ -1,514 +1,394 @@
-#Aplicación Presupuestaria,Denominación,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
-     161  61100,Acondicionamiento Depósitos Municipales de Agua,,120000.0,120000.0,
-     161  22114,Aguas depuradas para riego,200000.0,,200000.0,
-     161  60910,Instalaciones en BT Repetidor La Centinela,,164000.0,164000.0,
-     161  60208,Inversiones Red Saneamiento y Pluviales,,80663.38,80663.38,
-     161  76129,Saneamiento y Urbanización en El Fraile III Fase,,60280.73,60280.73,
-     161  22711,Servicio Abastecimiento de Agua y Alcantarillado,11600000.0,,11600000.0,11545609.8
-     161  22502,Tributos de las Entidades Locales,4300000.0,,4300000.0,4596224.68
-     430  41002,Al Patronato Municipal de Turismo,1035645.0,,1035645.0,1035645.0
-     430  46902,Convenio Regeneración espacio turístico,93718.0,,93718.0,93718.0
-     920  62301,Acondicionamiento Ingeniería CPD Municipales.,15000.0,,15000.0,
-     920  20200,Arrendamientos de Edificios y otras Construcciones,30000.0,,30000.0,24373.59
-     920  23300,Otras indemnizaciones ,5000.0,,5000.0,800.0
-     920  22103,Combustibles y carburantes,10000.0,,10000.0,6095.03
-     920  12100,Complemento de destino,175000.0,,175000.0,130024.07
-     920  12101,Complemento especifico,370000.0,,370000.0,253302.76
-     920  12102,Complemento de Residencia,42000.0,,42000.0,30465.07
-     920  23020,Dietas del personal no directivo,3000.0,,3000.0,715.23
-     920  23120,Locomoción del personal no directivo,8000.0,,8000.0,2071.84
-     920  21200,"Reparaciones, man. y conserv. Edificios y otras co",35000.0,,35000.0,18516.52
-     920  22605,Elecciones,,,,29345.72
-     920  21400,Repar. mant. y conserv. elementos de transporte,7000.0,,7000.0,4460.22
-     920  22100,Energía eléctrica,900000.0,,900000.0,673496.6
-     920  62617,Equipamiento Informático Centros Cívicios Medianía,32100.0,,32100.0,
-     920  21502,Equipamiento Mobiliario Centros Cívicios Medianías,18220.0,,18220.0,500.0
-     920  62503,Equipamiento Mobiliario Centros Civicos.,9695.0,,9695.0,
-     920  62600,Equipos para Proceso de Información,400000.0,,400000.0,335694.12
-     920  22706,Estudios y Trabajos Técnicos,280000.0,,280000.0,73669.16
-     920  16200,Formación y perfeccionamiento del Personal,5000.0,,5000.0,5779.0
-     920  15100,Gratificaciones,10000.0,,10000.0,32949.03
-     920  22203,Informáticas,45000.0,,45000.0,39213.76
-     920  22604,"Jurídicos, Contenciosos",200000.0,,200000.0,421456.74
-     920  22700,Limpieza y Aseo,2270000.0,,2270000.0,2000334.86
-     920  21304,Mantenimiento Aire Acondicionado,18000.0,,18000.0,17857.67
-     920  62300,"Maquinaria, Instalaciones y Utillaje",5000.0,,5000.0,5212.74
-     920  22002,Material informático no inventariable,250000.0,,250000.0,293245.11
-     920  22607,Oposiciones y pruebas selectivas,5000.0,,5000.0,7796.55
-     920  22000,Ordinario no inventariable,20000.0,,20000.0,35572.36
-     920  13100,Retribuciones personal temporal,335000.0,,335000.0,284370.85
-     920  22616,Plan de Formación Interno Empleados Públicos,10000.0,,10000.0,11993.65
-     920  22201,Postales,300000.0,,300000.0,204502.28
-     920  22001,"Prensa, revistas, libros y otras publicaciones",10000.0,,10000.0,19421.75
-     920  22401,Primas de seguros vehículos municipales.,3000.0,,3000.0,2240.0
-     920  15000,Productividad,13120.0,,13120.0,337.48
-     920  22105,Productos alimenticios,18000.0,,18000.0,12431.6
-     920  22110,Productos de limpieza y aseo,1000.0,,1000.0,211.21
-     920  22603,Publicación en Diarios Oficiales,9000.0,,9000.0,6714.44
-     920  22602,Publicidad y Propaganda,65000.0,,65000.0,76122.7
-     920  21600,Repar. mant. y cons. Equipos para procesos informa,31400.0,,31400.0,12665.1
-     920  21500,Repar. mant. y cons. Mobiliario,2000.0,,2000.0,2224.14
-     920  21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,,1000.0,
-     920  13000,Retribuciones personal laboral fijo,290000.0,,290000.0,262148.29
-     920  14301,Retribuciones personal afecto a programas,145000.0,,145000.0,118511.93
-     920  16000,Seguridad Social,520000.0,,520000.0,508188.96
-     920  22701,Seguridad,18000.0,,18000.0,17579.76
-     920  22713,Servicio de mantenimiento de vías y edificios,320000.0,,320000.0,59.4
-     920  22716,Servicio de Mantenimiento Eléctrico de Edificios,72000.0,,72000.0,62360.31
-     920  12000,Sueldos del Grupo A1,145000.0,,145000.0,154454.54
-     920  12001,Sueldos del Grupo A2,14700.0,,14700.0,19723.89
-     920  12003,Sueldos del Grupo C1,45000.0,,45000.0,29328.94
-     920  12004,Sueldos del Grupo C2,72000.0,,72000.0,80772.15
-     920  12005,Sueldos del Grupo E,32000.0,,32000.0,39814.43
-     920  22112,"Suministros de material electrónico, eléctrico y t",2000.0,,2000.0,7636.68
-     920  22204,Telefónicas,52000.0,,52000.0,58149.14
-     920  12006,Trienios,55000.0,,55000.0,41772.77
-     920  22104,Vestuario,12000.0,,12000.0,4967.17
-     330  41000,Al Patronato Municipal de Cultura,2402141.95,,2402141.95,2402141.95
-     330  22100,Energía eléctrica,10000.0,,10000.0,
-     330  22713,Servicio de mantenimiento de vías y edificios,320000.0,,320000.0,
-     330  22204,Teléfonos,5000.0,,5000.0,4424.81
-     340  41001,Al Patronato Municipal de Deportes,2461395.0,,2461395.0,2461395.0
-     340  22100,Energía eléctrica,231000.0,,231000.0,223560.57
-     320  12100,Complemento de destino,7200.0,,7200.0,
-     320  12101,Complemento especifico,12000.0,,12000.0,
-     320  12102,Complemento de Residencia,1700.0,,1700.0,
-     320  23020,Dietas del personal no directivo,600.0,,600.0,
-     320  23120,Locomoción del personal no directivo,600.0,,600.0,
-     320  22100,Energía eléctrica,100000.0,,100000.0,82516.16
-     320  16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-     320  15100,Gratificaciones,1000.0,,1000.0,
-     320  13100,Retribuciones personal temporal,77000.0,,77000.0,48721.93
-     320  22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-     320  15000,Productividad,1000.0,,1000.0,
-     320  13000,Retribuciones personal laboral fijo,206000.0,,206000.0,131592.61
-     320  14301,Retribuciones personal afecto a programas,19400.0,,19400.0,16615.22
-     320  16000,Seguridad Social,110000.0,,110000.0,73898.36
-     320  22713,Servicio de mantenimiento de vías y edificios,320000.0,,320000.0,5508.31
-     320  22716,Servicio de Mantenimiento Eléctrico de Edificios,198130.0,,198130.0,184783.45
-     320  12001,Sueldos del Grupo A2,15000.0,,15000.0,
-     150  20200,Arrendamientos de Edificios y otras construcciones,13500.0,,13500.0,13215.88
-     150  22103,Combustibles y carburantes,10000.0,,10000.0,11121.39
-     150  12100,Complemento de destino,200000.0,-50000.0,150000.0,142629.71
-     150  12101,Complemento especifico,440000.0,,440000.0,285095.08
-     150  12102,Complemento de Residencia,50000.0,-1800.0,48200.0,32445.07
-     150  23020,Dietas del personal no directivo,1000.0,,1000.0,416.89
-     150  23120,Locomoción del personal no directivo,2000.0,,2000.0,638.83
-     150  21400,"Reparación, man. y conserv. elementos de transport",7000.0,,7000.0,8073.12
-     150  22100,Energía eléctrica,250000.0,,250000.0,194063.56
-     150  22706,Estudios y trabajos técnicos,75000.0,,75000.0,3000.0
-     150  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,3783.59
-     150  15100,Gratificaciones,1000.0,,1000.0,8180.03
-     150  62300,"Maquinaria, Instalaciones y Utillaje",1000.0,,1000.0,
-     150  22000,Ordinario no inventariable,6000.0,,6000.0,242.85
-     150  60101,Parque Urbano Cho-Parque La Reina ,,58000.0,58000.0,
-     150  13100,Retribuciones personal temporal,280000.0,,280000.0,354940.88
-     150  22001,"Prensa, revistas, libros y otros",1000.0,,1000.0,
-     150  22401,Primas de seguros,7000.0,,7000.0,4587.94
-     150  15000,Productividad,5000.0,,5000.0,
-     150  21500,Repar. mant. y cons. Mobiliario,6000.0,,6000.0,3037.2
-     150  13000,Retribuciones personal laboral fijo,360000.0,,360000.0,305226.27
-     150  14301,Retribuciones personal afecto a programas,127500.0,,127500.0,110241.22
-     150  16000,Seguridad Social,552000.0,-14500.0,537500.0,534473.03
-     150  12000,Sueldos del Grupo A1,142000.0,,142000.0,150001.67
-     150  12001,Sueldos del Grupo A2,57000.0,,57000.0,53500.22
-     150  12003,Sueldos del Grupo C1,72000.0,,72000.0,33230.11
-     150  12004,Sueldos del Grupo C2,62000.0,,62000.0,92155.63
-     150  12005,Sueldos del Grupo E,25000.0,,25000.0,30356.62
-     150  12006,Trienios,72000.0,-20000.0,52000.0,51310.33
-     170  22103,Combustibles y carburantes.,3000.0,,3000.0,2598.02
-     170  12100,Complemento de destino,25000.0,,25000.0,8378.4
-     170  12101,Complemento especifico,52000.0,,52000.0,19370.28
-     170  12102,Complemento de Residencia,5200.0,,5200.0,2058.48
-     170  23020,Dietas del personal no directivo,1000.0,,1000.0,
-     170  23120,Locomoción del personal no directivo,2000.0,,2000.0,27.55
-     170  21400,Elementos de Transporte,,,,440.87
-     170  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-     170  15100,Gratificaciones,1000.0,,1000.0,
-     170  22000,Ordinario no inventariable,1000.0,,1000.0,217.21
-     170  13100,Retribuciones personal temporal,33000.0,,33000.0,33473.96
-     170  22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-     170  22401,Primas de seguros vehículos municipales.,1500.0,,1500.0,1347.0
-     170  15000,Productividad,1000.0,,1000.0,
-     170  22602,Publicidad y propaganda,10000.0,,10000.0,880.0
-     170  13000,Retribuciones personal laboral fijo,74000.0,,74000.0,14113.02
-     170  14301,Retribuciones personal afecto a programas,22200.0,,22200.0,19103.52
-     170  22606,"Reuniones, conferencias y cursos.",8000.0,,8000.0,
-     170  16000,Seguridad Social,75000.0,,75000.0,34838.53
-     170  12000,Sueldos del Grupo A1,36700.0,,36700.0,22145.42
-     170  12006,Trienios,2500.0,,2500.0,2047.2
-     130  22103,Combustibles y carburantes.,60000.0,,60000.0,48008.38
-     130  21305,Mantenimiento Cámaras de Seguridad,18000.0,,18000.0,28927.0
-     130  21303,Mantenimiento de Extintores,18000.0,,18000.0,9046.08
-     130  22002,Material informático no inventariable,1000.0,,1000.0,
-     130  22000,Ordinario no inventariable,10000.0,,10000.0,5532.44
-     130  22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-     130  22401,Primas de seguros vehiculos mples.,16000.0,,16000.0,16446.98
-     130  21500,Repar. mant. y cons. Mobiliario,1000.0,,1000.0,1924.49
-     130  22111,"Suministros de repuestos de maquinaria, utillaje",10000.0,,10000.0,4126.44
-     130  22204,Teléfonos,10500.0,,10500.0,5644.8
-     130  22104,Vestuario,120000.0,,120000.0,20757.39
-     160  76102,"Marco en Barranco La Sabinita-C/ El Horno, Cabo Bl",328577.0,,328577.0,
-     160  76101,Red drenaje para recogida aguas pluviales Morro G.,143581.0,,143581.0,
-     165  42393,Aportación Comité Español Iluminación,601.0,,601.0,440.0
-     165  62300,"Maquinaria, Instalaciones y Utillaje",5500.0,,5500.0,
-     165  22712,Servicio Mantenimiento Alumbrado Público,1293100.0,,1293100.0,1224632.55
-     3322  20200,Arrendamientos de Edificios y otras contrucciones,10000.0,,10000.0,9796.53
-     3322  12100,Complemento de destino,6700.0,,6700.0,5680.2
-     3322  12101,Complemento específico,11000.0,,11000.0,9138.6
-     3322  12102,Complemento residencia,1500.0,,1500.0,1387.2
-     3322  15100,Gratificaciones,1000.0,,1000.0,
-     3322  13100,Personal Laboral temporal,21000.0,,21000.0,8882.63
-     3322  15000,Productividad,1000.0,,1000.0,
-     3322  13000,Retribuciones básicas,20000.0,,20000.0,19816.68
-     3322  16000,Seguridad Social,22000.0,,22000.0,26517.51
-     3322  12003,Sueldos del Grupo C1,10000.0,,10000.0,13750.84
-     3322  12006,Trienios,3500.0,,3500.0,2740.56
-     231  62213,Adecuación N.V. Instalaciones Residencia Mayores C,,218394.02,218394.02,
-     231  41003,Al Patronato Municipal de Servicios Sociales,3583240.0,314009.33,3897249.33,3815139.32
-     231  63211,Ampliación Residencia de Mayores Los Cristianos,,28000.0,28000.0,
-     231  23020,Dietas del personal no directivo,,,,
-     231  23120,Locomoción del personal no directivo,,,,
-     231  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-     231  62300,"Maquinaria, instalaciones y utillaje",,6543.22,6543.22,
-     231  62400,Material de Transporte,,10181.27,10181.27,
-     231  62500,Mobiliario,,31374.02,31374.02,
-     231  13000,Retribuciones personal laboral fijo,168000.0,24000.0,192000.0,171233.91
-     231  16000,Seguridad Social,52000.0,4500.0,56500.0,51810.79
-     231  44221,Subvención a la Empresa Municipal ADESA,1020040.0,,1020040.0,1020040.0
-     925  12100,Complemento de destino,42000.0,,42000.0,29663.48
-     925  12101,Complemento específico,80000.0,,80000.0,53310.71
-     925  12102,Complemento de Residencia,9000.0,,9000.0,6624.43
-     925  23020,Dietas del personal no directivo,1000.0,,1000.0,
-     925  23120,Locomoción del personal no directivo,1000.0,,1000.0,535.79
-     925  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-     925  15100,Gratificaciones,1000.0,,1000.0,
-     925  13100,Retribuciones personal temporal,130000.0,,130000.0,182106.66
-     925  15000,Productividad,33500.0,,33500.0,153.3
-     925  13000,Retribuciones básicas,295000.0,,295000.0,201728.23
-     925  16000,Seguridad Social,190000.0,,190000.0,238541.63
-     925  22720,Servicio de Atención Telefónica,584590.0,,584590.0,476851.38
-     925  12003,Sueldos del Grupo C1,30000.0,,30000.0,14279.83
-     925  12004,Sueldos del Grupo C1,35000.0,,35000.0,56691.61
-     925  12006,Trienios,15000.0,,15000.0,10519.76
-     3321  20200,Arrendamientos de Edificios y otras Construcciones,,,,
-     453  60137,Conexión Peatonal Guargacho-Las Rosas,,967574.09,967574.09,
-     453  60816,Rehab. pav. de calzada núcleo Los Cristianos,,69982.94,69982.94,69982.94
-     453  60819,Rehab. pav. de calzada núcleo Valle S.L.,,63920.2,63920.2,42565.28
-     164  62214,Ampliación del Cementerio Municipal,,56225.85,56225.85,
-     164  62215,Construcción Nichos medidas especiales,,18000.0,18000.0,17308.89
-     164  22615,Inhumaciones,5000.0,,5000.0,543.84
-     164  21306,Mantenimiento Horno Pirolitico Cementerio Mpal.,,,,1300.0
-     164  13100,Retribuciones personal temporal,16000.0,,16000.0,13940.76
-     164  62302,"Plataformas, Escaleras y Maquinaria",35300.0,,35300.0,
-     164  22110,Productos de limpieza y aseo,1000.0,,1000.0,721.2
-     164  63202,Refuerzo Estructural Cementerio Municipal ,,23000.0,23000.0,22907.92
-     164  13000,Retribuciones personal laboral fijo,37000.0,,37000.0,35568.65
-     164  14301,Retribuciones personal afecto a programas,19600.0,,19600.0,16822.88
-     164  16000,Seguridad Social,26000.0,,26000.0,32800.13
-     164  22104,Vestuario,1000.0,,1000.0,1056.05
-     1522  60001,Adquisición de Suelo para Construcción V.P.O.,,210000.0,210000.0,
-     1522  78011,Ayudas Rehabilitacion viviendas 1ª Necesidad,100000.0,-25934.85,74065.15,20214.77
-     922  42392,Aportación a la FEMP,6000.0,,6000.0,5288.45
-     922  12100,Complemento de destino,6000.0,,6000.0,9474.96
-     922  12101,Complemento específico,8000.0,,8000.0,13176.72
-     922  12102,Complemento de Residencia,1200.0,,1200.0,2286.72
-     922  23020,Dietas del personal no directivo,1000.0,,1000.0,
-     922  23120,Locomoción del personal no directivo,600.0,,600.0,
-     922  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-     922  15100,Gratificaciones,1000.0,,1000.0,970.2
-     922  15000,Productividad,1000.0,,1000.0,
-     922  13000,Retribuciones personal laboral fijo,62000.0,,62000.0,62987.65
-     922  16000,Seguridad Social,28000.0,,28000.0,35956.57
-     922  12004,Sueldos del Grupo C2,9000.0,,9000.0,22660.42
-     922  12006,Trienios,2500.0,,2500.0,2900.88
-     433  22614,Plan de Promoción Económica,340000.0,-138720.0,201280.0,191034.37
-     414  46600,Aportación Desarrollo Rural Chasna- Isora,6010.0,,6010.0,6000.0
-     414  62507,Equipamiento Mercadillo Municipal del Agricultor,80000.0,-12000.0,68000.0,4130.2
-     414  22121,Suministro Mercadillo Municipal del Agricultor,6000.0,,6000.0,2503.28
-     011  91301,Amortización préstamos largo plazo entidades fin.,1100000.0,,1100000.0,906424.83
-     011  31000,Intereses,250000.0,,250000.0,174919.42
-     338  22610,Festejos y Actos Populares,175000.0,,175000.0,255670.62
-     338  22611,Fiestas del Municipio,213000.0,,213000.0,296442.99
-     338  48100,Subvenciones a Comisiones de Fiestas,67400.0,,67400.0,46900.0
-     3271  22609,Actividades Socioculturales,73500.0,,73500.0,61838.06
-     3271  20200,Arrendamientos de edificios y otras construcciones,,,,
-     3271  16200,Formación y perfeccionamiento del personal,600.0,,600.0,433.32
-     3271  13100,Personal laboral temporal,82000.0,,82000.0,78952.11
-     3271  13000,Retribuciones básicas,108000.0,,108000.0,106216.92
-     3271  14301,Retribuciones personal afecto a programas,44100.0,,44100.0,37574.52
-     3271  16000,Seguridad Social,80000.0,,80000.0,76102.68
-     241  20200,Arrendamientos de Edificios y otras Construcciones,22500.0,,22500.0,17641.64
-     241  23020,Dietas del personal no directivo,1000.0,,1000.0,336.6
-     241  23120,Locomoción del personal no directivo,1000.0,,1000.0,137.75
-     241  22706,Estudios y Trabajos Técnicos,88000.0,,88000.0,66785.79
-     241  14303,Retribuciones personal convenios,500000.0,,500000.0,528996.73
-     241  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,650.0
-     241  62300,"Maquinaria, Instalaciones y Utillaje",1000.0,,1000.0,
-     241  22612,Material Convenios Fomento Empleo,30000.0,,30000.0,8625.66
-     241  14342,Mejora de las Zonas Rurales de Medianias de Arona ,,101940.48,101940.48,67651.61
-     241  60812,Mobiliario Urbano,,54054.39,54054.39,
-     241  22000,Ordinario no inventariable,1000.0,,1000.0,
-     241  13100,Retribuciones personal temporal,95000.0,,95000.0,70859.12
-     241  14340,Programa Extraordinario Bianual de empleo social ,,531829.46,531829.46,531829.46
-     241  14302,Retribuciones convenios AEDL,35000.0,,35000.0,
-     241  13000,Retribuciones personal laboral fijo,73000.0,20000.0,93000.0,76932.95
-     241  14301,Retribuciones personal afecto a programas,,,,39054.66
-     241  22606,"Reuniones, Conferencias y Cursos",54000.0,,54000.0,30202.0
-     241  16000,Seguridad Social,55000.0,265543.46,320543.46,500437.16
-     241  48014,"Convnio Fundación Proyecto D,. Bosco",20000.0,,20000.0,
-     241  14341,Subvención para implementar Plan Especial Empleo S,,21778.08,21778.08,
-     323  20200,Arrendamientos de Edificios y otras Construcciones,6000.0,,6000.0,
-     323  21302,Mantenimiento de ascensores,15000.0,,15000.0,3008.7
-     1622  62304,Autocompactadores,,85000.0,85000.0,
-     933  16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-     933  13000,Retribuciones personal laboral fijo,20000.0,,20000.0,14604.19
-     933  16000,Seguridad Social,6500.0,,6500.0,9589.92
-     312  20200,Arrendamientos de Edificios y otras Construcciones,,,,
-     312  22100,Energía eléctrica,53000.0,,53000.0,8926.11
-     929  20800,Arrendamientos de Otro Inmovilizado Material,7000.0,,7000.0,
-     929  22103,Combustibles y carburantes,1000.0,,1000.0,
-     929  12101,Complemento Especifico.,43380.0,,43380.0,
-     929  21400,Repar. mant. y cons. elementos de transporte,1000.0,,1000.0,
-     929  50000,Fondo de Contingencia,1000000.0,-869815.52,130184.48,
-     929  21300,"Reparaciones, Mante. y conserv. Maquinaria e Inst.",10000.0,,10000.0,2121.66
-     929  62500,Mobiliario,5000.0,,5000.0,2675.0
-     929  22000,Ordinario no inventariable,2000.0,,2000.0,
-     929  13002,Otras Remuneraciones,63000.0,,63000.0,118441.81
-     929  12009,Otras Retribuciones básicas.,58041.0,-40000.0,18041.0,
-     929  48102,Premios,2000.05,,2000.05,
-     929  22402,Primas de seguros resto,1000.0,,1000.0,333.0
-     929  21500,Repar. mant. y cons. Mobiliario,2000.0,,2000.0,1547.95
-     929  22606,"Reuniones, conferencias y cursos",2000.0,,2000.0,
-     929  22619,Sanciones,10000.0,,10000.0,5819.18
-     929  22702,Valoraciones y Peritajes,1000.0,,1000.0,120.0
-     432  63208,Adecuación Campo de Tiro de Arona,30000.0,,30000.0,
-     432  45392,Convenio Gesplan Redacción plan de Modernización ,80000.0,,80000.0,
-     432  46901,Convenio Promoción Turística SPET,150000.0,,150000.0,150000.0
-     432  76110,Estrategia de Mejora del Espacio Público Turístico,641526.0,,641526.0,
-     432  62255,Oficinas de Turismo Plan Q,,4028.75,4028.75,
-     432  76124,SPET Plan de Oficinas Turísticas,,12000.0,12000.0,
-     342  62250,Adecuación Reglamentación B.T. Campo Tiro de Arona,,2412.74,2412.74,
-     342  62207,Cámaras de seguridad Edificios Públicos,,6304.26,6304.26,
-     342  62901,Circuito Aire Libre Las Américas.,25000.0,,25000.0,
-     342  62226,Complejo Deportivo,,86448.09,86448.09,86448.09
-     342  62203,Cubierta Piscina Polivalente de Los Cristianos,,2003.42,2003.42,
-     342  62306,Desfibriladores Instalaciones Deportivas ,18000.0,,18000.0,17919.84
-     342  62305,Extracción de Aire Piscina Cubierta los Cristianos,18000.0,,18000.0,
-     342  22748,Reacondic. Pavimento Parket Pabellón Las Galletas,12466.0,,12466.0,12465.65
-     342  22751,Servicio de baño adaptado en Arona,,,,
-     342  22713,Servicio de mantenimiento de vías y edificios,320000.0,,320000.0,
-     342  22716,Servicio de Mantenimiento Eléctrico de Edificios,244500.0,,244500.0,218438.71
-     342  22752,Sustitución  césped artificial Pistas de Padel,12000.0,,12000.0,
-     342  22749,Sustitución Cesped Artificial Anexo Antonio Dguez.,160000.0,,160000.0,
-     342  22750,Sustitución Pavimento Pabellón El Fraile.,54000.0,,54000.0,
-     1722  21400,"Reparaciones, mante. y conservación elementos de t",2000.0,,2000.0,
-     1722  22751,Servicio de Baño Adaptado en Arona,14365.0,,14365.0,52670.75
-     133  22717,Servicio Grua Municipal,472000.0,,472000.0,
-     912  48201,Aportaciones a Partidos Políticos,35000.0,,35000.0,30943.1
-     912  23300,Otras Indemnizaciones,50000.0,,50000.0,97879.94
-     912  22601,Atenciones protocolarias y representativas,20000.0,,20000.0,46162.57
-     912  22103,Combustibles y carburantes,3000.0,,3000.0,4151.53
-     912  23000,Dietas de Miembros de Órganos de Gobierno,12000.0,60000.0,72000.0,5270.23
-     912  23100,Locomoción de Miembros de Órganos de Gobierno,12000.0,,12000.0,3110.4
-     912  21400,"Reparación, man. y conserv. elementos de transport",5000.0,,5000.0,3782.81
-     912  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,350.0
-     912  22000,Ordinario no inventariable,1000.0,,1000.0,2534.98
-     912  11002,Otras remuneraciones.,1740.0,,1740.0,
-     912  22001,"Prensa, revistas, libros y otros",1000.0,,1000.0,2199.34
-     912  22401,Primas de seguros,2500.0,,2500.0,2670.01
-     912  22105,Productos alimenticios,4000.0,,4000.0,1176.37
-     912  10000,Retribuciones básicas ,630000.0,-105000.0,525000.0,485465.3
-     912  11000,Retribuciones básicas,108800.0,,108800.0,74878.6
-     912  16000,Seguridad Social,204000.0,-1115.65,202884.35,184439.77
-     912  22204,Telefónicas,10000.0,,10000.0,7273.68
-     419  62227,Casa del Vino,,192907.3,192907.3,
-     221  16204,Acción Social,100000.0,,100000.0,99822.07
-     221  16006,Asistencia Farma-Protésica según Convenio,100000.0,25000.0,125000.0,73201.07
-     221  16008,Asistencia Médico-Farmacéutica,300000.0,,300000.0,201355.0
-     221  16206,Bolsa Convenio Personal Municipal,260000.0,,260000.0,206306.63
-     221  16205,Seguros,77500.0,,77500.0,56228.47
-     171  22719,Ajardinamiento Parque de Cho-Parque de la Reina,48000.0,,48000.0,
-     171  20000,Arrendamientos de Terrenos y Bienes Naturales,27000.0,,27000.0,17478.09
-     171  22741,Servicio Mantenimiento Jardines Municipales,4483226.0,,4483226.0,4512967.62
-     924  22609,Actividades Partiicipación Ciudanana,23000.0,,23000.0,11642.09
-     924  12100,Complemento de destino,1700.0,,1700.0,
-     924  12101,Complemento específico,3000.0,,3000.0,
-     924  12102,Complemento de Residencia,500.0,,500.0,
-     924  23020,Dietas del personal no directivo,600.0,,600.0,
-     924  22000,Ordinario no inventariable,1000.0,,1000.0,
-     924  13100,Retribuciones personal temporal,40000.0,,40000.0,37670.11
-     924  22606,"Reuniones, conferencia y cursos",,,,2407.5
-     924  16000,Seguridad Social,15000.0,,15000.0,13701.41
-     924  12003,Sueldos del Grupo C1,2600.0,,2600.0,
-     1532  65004,Acondicionamiento de la Travesía de Guaza,,14495.48,14495.48,7579.18
-     1532  60944,"Baranda Protección C/Santa Rita - Abrigaño, Cabo B",,12900.0,12900.0,
-     1532  60901,Mejora de la accesibildad Avda. Chayofita,,1508.24,1508.24,
-     1532  60943,Obras Adecuación Conexión Vía Serv. Avda Chayofita,,6551.0,6551.0,
-     1532  60941,Obras Seguridad Zon Pública CC Apolo Los Cristiano,,56028.0,56028.0,
-     1532  60902,Obras en Arona Casco,,25934.85,25934.85,
-     1532  60942,Obras en Crta. Cruz del Guanche-La Sabinita PK 0+0,,15827.0,15827.0,
-     1532  60123,Plan de Accesibilidad,,10000.0,10000.0,
-     1532  21201,Reparación Calzada C/ México.,,6289.43,6289.43,6289.43
-     1532  22613,Señalizaciones Municipales,,,,858.8
-     1532  22713,Servicio de mantenimiento de vías y edificios,900000.0,,900000.0,38303.48
-     931  83101,Anticipo de pagas a personal,10.0,227200.0,227210.0,227200.0
-     931  83001,Anticipos por cuenta terceros,10.0,26268.01,26278.01,26268.01
-     931  20200,Arrendamientos de Edificios y otras Construcciones,10000.0,,10000.0,9646.3
-     931  23300,Otras indemnizaciones,,,,200.0
-     931  62207,Cámaras de seguridad Edificios Públicos,,3000.0,3000.0,
-     931  22103,Combustibles y carburantes,,,,672.11
-     931  12100,Complemento de destino,150000.0,,150000.0,105801.45
-     931  12101,Complemento especifico,270000.0,,270000.0,198863.86
-     931  12102,Complemento de Residencia,33000.0,,33000.0,22801.79
-     931  23020,Dietas del personal no directivo,1000.0,,1000.0,582.07
-     931  23120,Locomoción del personal no directivo,6000.0,,6000.0,912.46
-     931  35700,Ejecucion de avales,1000.0,,1000.0,
-     931  21400,Elementos de Transporte,,,,71.45
-     931  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,1000.0
-     931  31100,Gastos de formalización y cancelación,1000.0,,1000.0,
-     931  15100,Gratificaciones,1000.0,,1000.0,1051.37
-     931  35200,Intereses de demora Capitulo 6,100000.0,44115.65,144115.65,184200.0
-     931  35201,Intereses de demora Capitulo 2,100000.0,42000.0,142000.0,97573.75
-     931  34000,Intereses de depósitos,1000.0,,1000.0,
-     931  34100,Intereses de fianzas,1000.0,,1000.0,
-     931  35800,Intereses por operaciones de arrendamiento financi,1000.0,,1000.0,
-     931  22618,Intereses y Comisiones,90000.0,,90000.0,166444.18
-     931  62500,Mobiliario,2000.0,,2000.0,
-     931  22000,Ordinario no inventariable,1000.0,,1000.0,1006.95
-     931  13100,Retribuciones personal temporal,250000.0,,250000.0,235511.54
-     931  22001,"Prensa, revistas, libros y otros",3000.0,,3000.0,1579.69
-     931  15000,Productividad,6000.0,,6000.0,5816.08
-     931  21500,Repar. mant. y cons. Mobiliario,1000.0,,1000.0,
-     931  13000,Retribuciones básicas.,420000.0,,420000.0,367556.97
-     931  16000,Seguridad Social,400000.0,,400000.0,379553.03
-     931  22708,Servicios de Recaudación,1200000.0,,1200000.0,1451579.87
-     931  12000,Sueldos del Grupo A1,110000.0,,110000.0,117832.45
-     931  12003,Sueldos del Grupo C1,90000.0,,90000.0,55165.24
-     931  12004,Sueldos del Grupo C2,32000.0,,32000.0,68212.89
-     931  22501,Tributos de las Comunidades Autónomas,1000.0,,1000.0,
-     931  22502,Tributos de las Entidades Locales,1000.0,,1000.0,
-     931  22500,Tributos Estatales,1000.0,,1000.0,3714.42
-     931  12006,Trienios,45000.0,,45000.0,37882.37
-     334  20200,Arrendamiento de Edificios y otras construcciones,717455.0,777078.0,1494533.0,1494533.0
-     334  62207,Cámaras de seguridad Edificios Públicos,,13776.48,13776.48,
-     334  47903,Convenio Uso Cultural Instalaciones Casino Arona,9000.0,,9000.0,
-     341  22706,Estudios y trabajos técnicos,30000.0,-12000.0,18000.0,
-     135  12100,Complemento de destino,3900.0,,3900.0,
-     135  12101,Complemento especifico,6700.0,,6700.0,
-     135  12102,Complemento de Residencia,850.0,,850.0,
-     135  62400,Material de Transporte,50000.0,,50000.0,
-     135  16000,Seguridad Social,6000.0,,6000.0,
-     135  12000,Sueldos del Grupo A1,7200.0,,7200.0,
-     135  26001,Trabajos realizados por Protección Civil,150000.0,,150000.0,148613.66
-     311  20200,Arrendamientos de Edificios y otras contrucciones,21000.0,,21000.0,20706.39
-     311  22731,Control de Aves.,10800.0,,10800.0,761.26
-     311  22704,Recogida y acogida de animales.,60000.0,,60000.0,52476.78
-     311  22115,"Desinfectantes, raticidas",60000.0,,60000.0,46636.6
-     311  16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-     311  22617,Promoción Sanidad y Consumo,,,,7684.53
-     311  22722,Recogida Animales Exóticos,3000.0,,3000.0,3000.0
-     311  13000,Retribuciones personal laboral fijo,36000.0,,36000.0,35886.14
-     311  16000,Seguridad Social,12000.0,,12000.0,11613.23
-     336  76200,Acto. Cueva Santo Hermano Pedro,,62000.0,62000.0,
-     336  22609,Actividades Socioculturales,6000.0,,6000.0,5021.7
-     336  48301,Convenio Archivo Diocesano,7000.0,,7000.0,
-     336  22706,Estudios y trabajos técnicos,35000.0,,35000.0,30168.49
-     1721  65913,Aseos y Duchas en Playas,,50000.0,50000.0,
-     1721  65914,Balizamiento Playas,,200000.0,200000.0,77917.4
-     1721  20900,Cánones,175000.0,,175000.0,171789.51
-     1721  22730,Mantenimiento Integral del Litoral,364365.0,,364365.0,361498.6
-     1721  62300,"Maquinaria, Instalaciones y Utillaje",,41139.99,41139.99,
-     1721  21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,,1000.0,
-     1721  22736,Servicio de Vigilancia y Socorrismo en Playas,389190.0,,389190.0,205664.15
-     1721  48015,Subvención Fundación Neotrópico Preservación Lagar,3000.0,,3000.0,
-     1621  22709,Servicio Recogida RSU y Lim. Viaria,12512221.0,,12512221.0,12373206.86
-     1621  22710,Servicio Recogida de Papel Cartón,200000.0,,200000.0,246951.88
-     1621  22502,Tributos de las Entidades Locales,2300000.0,,2300000.0,2383186.23
-     452  60610,Inversiones en la Red de Agua,,2710363.12,2710363.12,7960.83
-     132  20400,Arrendamientos de Material de Transporte,150000.0,,150000.0,137913.36
-     132  20200,Arrendamientos de Edificios y Otras Construcciones,23000.0,,23000.0,22103.16
-     132  12100,Complemento de destino,700000.0,,700000.0,495665.76
-     132  12101,Complemento especifico,1350000.0,-160000.0,1190000.0,920004.35
-     132  12102,Complemento de Residencia,192000.0,,192000.0,143966.06
-     132  23020,Dietas del personal no directivo,1000.0,,1000.0,499.89
-     132  23120,Locomoción del personal no directivo,10000.0,,10000.0,8160.89
-     132  21400,Repar. conserv. y man. elementos de transporte,30000.0,,30000.0,23963.33
-     132  62603,Emisoras Policía Local,,133008.43,133008.43,2060.89
-     132  16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,3815.58
-     132  15100,Gratificaciones,150000.0,37800.0,187800.0,147766.46
-     132  62300,"Maquinaria, Instalaciones y Utillaje",10000.0,,10000.0,
-     132  62400,Material de Transporte,9000.0,36000.0,45000.0,
-     132  62500,Mobiliario,10000.0,,10000.0,
-     132  13100,Retribuciones personal temporal,45000.0,,45000.0,35143.88
-     132  22728,Plan de Seguridad Integral Edificios Municipales,100000.0,,100000.0,
-     132  62604,Plan de Seguridad Integral Edificios Municipales,70000.0,,70000.0,
-     132  15000,Productividad,30000.0,38000.0,68000.0,107434.19
-     132  13000,Retribuciones personal laboral fijo,60000.0,,60000.0,44275.5
-     132  16000,Seguridad Social,1160000.0,,1160000.0,1270974.95
-     132  22717,Servicio de Grúa Municipal,,,,379992.51
-     132  12000,Sueldos del Grupo A1,7500.0,,7500.0,
-     132  12001,Sueldos del Grupo A2,60000.0,,60000.0,72216.57
-     132  12003,Sueldos del Grupo C1,1330000.0,-63000.0,1267000.0,1383852.85
-     132  12004,Sueldos del Grupo C2,8400.0,,8400.0,5904.77
-     132  12006,Trienios,165000.0,,165000.0,154759.7
-     326  22609,Actividades Culturales y Deportivas,25500.0,58140.0,83640.0,36305.13
-     326  48005,Ayuda Actividades Permanencia (APAS),11550.0,,11550.0,3850.0
-     326  48001,Becas de Transporte,96000.0,-35040.0,60960.0,60959.97
-     326  48003,Becas de Enseñanza Especial,55000.0,-7700.0,47300.0,46750.0
-     326  48002,Becas Enseñanza Universitaria,253000.0,-15400.0,237600.0,237600.0
-     326  21302,Mantenimiento de Ascensores,,,,1684.01
-     326  22714,Servicios Varios a Colegios,5000.0,,5000.0,
-     326  48006,Conv. Master Inter-Universitario Innovación,,12000.0,12000.0,12000.0
-     326  48004,Subvenciones APAS,16200.0,,16200.0,11700.0
-     491  76103,Convenio Ayto. Cabildo obras Fibra Óptica Mpal. ,300000.0,444043.08,744043.08,
-     943  46701,Aportación Consorcio de Incendios,776904.0,,776904.0,776903.81
-     4411  46101,Convenio Transporte Colectivo,138000.0,,138000.0,77642.0
-     4911  65012,Acto. Pisaj. Margen Izgdo. TF66 Fraile-Galletas,,40697.41,40697.41,
-     4911  62309,Cartelería Digital Interior Urban,,50800.0,50800.0,
-     4911  62267,Centro Cívico El Fraile,81650.0,32750.0,114400.0,81641.0
-     4911  62246,Centro Civico Las Galletas,540000.0,1429543.39,1969543.39,44833.13
-     4911  63207,Centro Empresarial Integrado,400000.0,164150.55,564150.55,9630.0
-     4911  62701,Creación Zonas Wi-Fi Zona Urban/Urban Arona 07-15,400000.0,,400000.0,118368.24
-     4911  23020,Dietas del personal no directivo,500.0,,500.0,341.22
-     4911  23120,Locomoción de Personal,500.0,300.0,800.0,864.54
-     4911  62508,Equipamiento del Centro Cívico El Fraile,,24423.44,24423.44,
-     4911  21501,Equimpamiento mobiliario edificios Urban.,100000.0,,100000.0,
-     4911  62600,Equipos para Procesos de Información,160000.0,34604.02,194604.02,14289.85
-     4911  22740,Estudios y Trabajos. Seguimiento Proyecto URBAN,20215.0,12000.0,32215.0,19250.0
-     4911  22706,Estudios y Trabajos técnicos,75000.0,148420.0,223420.0,42693.0
-     4911  16200,Formación y perfeccionamiento del personal,1000.0,,1000.0,
-     4911  22002,"Material Informático no inventariable, Urban 07-15",5000.0,,5000.0,
-     4911  60815,Parque Garañaña,,125406.62,125406.62,
-     4911  22733,Plan formativo empresarial C. empresarial Urban,10000.0,,10000.0,470.0
-     4911  62286,Proyecto Despliegue Fibra Optica Urban,,,,
-     4911  22628,Proyecto Las Galletas Capital del Buceo ,,76000.0,76000.0,
-     4911  62401,Proyecto Préstamo de Bicicletas y Carril 30,185351.0,78000.0,263351.0,
-     4911  22745,Proyecto Préstamo de Bicicletas y Carril 30,,20400.0,20400.0,9630.0
-     4911  22602,Publicidad y propaganda,,82683.62,82683.62,
-     4911  14301,Retribuciones personal afecto a programas,120000.0,-10000.0,110000.0,67272.28
-     4911  62616,Seguridad Integral Edificios mples. Zona Urban,170000.0,153842.48,323842.48,169092.24
-     4911  16000,Seguridad Social,40000.0,,40000.0,40664.53
-     4911  21901,"Señalética Parque Garañaña, Urban 07-15",30000.0,,30000.0,
-     4911  22732,Servicio Desarrollo Tecnnológico c. Empresarial,60000.0,,60000.0,20150.11
-     4911  22712,Servicio Mantenimiento Alumbrado Público- URBAN,,,,17981.02
-     4911  22744,Zona Comercial Abierta Las Galletas,,25000.0,25000.0,10593.0
-     151  62209,Adecuación  Instalaciones CPD Edificios Mples.,,6349.15,6349.15,
-     151  62205,Adecuación N.V. Instalaciones BT Edificios público,,988000.0,988000.0,
-     151  60000,Adquisición de Terrenos,,8569848.26,8569848.26,
-     151  60139,Alumbrado Público en Valle San Lorenzo,,77540.0,77540.0,
-     151  60911,Centro Civico y Plaza la Camella,,24128.78,24128.78,
-     151  60201,Centro de Transformación Arona Casco,,673615.09,673615.09,
-     151  65011,Conexión peatonal Montaña Fría- Arona Casco,20000.0,,20000.0,
-     151  60104,Gutinado del Solar Municipal C/Duque de la Torre,,1103.97,1103.97,
-     151  22118,Mobiliario Urbano No Inventariable,15000.0,,15000.0,
-     151  60806,Parques Infantiles,,200000.0,200000.0,
-     151  60135,Plan de Barrios,,350948.56,350948.56,
-     151  61104,"Rehab. Barrio Nuevo, C/Noruega y Explanada Los Cri",,,,
-     151  60905,Rehabilitación e Ilum. Ext. Sala Multiusos Los Cri,,1636.14,1636.14,
-     151  60124,Remodelación Plaza de Las Galletas,53105.0,,53105.0,53104.02
-     151  65008,Urbanización en superficie Barranquera Espadal VSL,,210000.0,210000.0,
-     155  21000,"Reparaciones, mant. y conserv. instraestruc. y B.N",1000.0,,1000.0,
-     155  22613,Señalizaciones Municipales,25000.0,,25000.0,14988.11
-,,,,,
-#,TOTALES,88478924.0,21125531.7,109604455.7,80143095.74
+#Org,Prog,Econ,Denominación ,Vinc.Org.,Vinc.Func,Vinc.Eco.,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
+1,011,31000,Intereses de Deuda Pública de Operaciones de Créd,1,011,3,20000,-9000,11000,10321.11
+1,011,31001,Intereses de Deuda a Corto Plazo,1,011,3,55419.66,-54000,1419.66,1286.64
+1,011,31100,Gastos de Apertura de Operaciones de Crédito,1,011,3,5000,-2000,3000,0
+1,011,35200,Intereses de Demora Generales,1,011,3,10000,0,10000,59.47
+1,011,91300,Amortización Prestamo Caja de  Madrid ,1,011,9,370000,65000,435000,425915.08
+1,130,11000,Retribuciones Personal Event.Gabinete,1,130,1,8699.6,-1009.92,7689.68,7689.68
+1,130,12000,Retribuciones Básicas Policia Local ,1,130,1,81000,0,81000,0
+1,130,12003,Retribuciones Básicas Policia Local  Grupo C1,1,130,1,0,0,0,10047.63
+1,130,12004,Retribuciones Básicas Policia Local  Grupo C2,1,130,1,0,0,0,55801.08
+1,130,12100,Retribuciones Complementarias Policia Local ,1,130,1,241407.23,0,241407.23,232464.63
+1,130,13000,Retribuciones Personal Laboral Fijo,1,130,1,23000,0,23000,21797.79
+1,130,15100,Gratificaciones Policía Municipal,1,130,1,2000,0,2000,276.02
+1,130,16000,Seguridad Social Policía Municipal,1,130,1,110000,0,110000,101377.34
+1,130,20400,Alquiler de Vehiculos Policia Local,1,130,2,0,0,0,150.91
+1,130,21200,Reparación y Mantenimiento Edificios,1,130,2,3000,0,3000,219.56
+1,130,21300,"Reparación Maquinaria, Instalaciones y Utillaje",1,130,2,16500,0,16500,15400.21
+1,130,21400,Reparación Vehículos Policía Municipal,1,130,2,1000,0,1000,1815.44
+1,130,22000,Material Oficina Policía Municipal,1,130,2,2000,0,2000,363
+1,130,22100,Energía Eléctrica,1,130,2,11000,0,11000,7003.67
+1,130,22101,Suministros Agua Admon CPC,1,130,2,900,0,900,1001.68
+1,130,22103,Combustibles y Carburantes,1,130,2,7500,0,7500,3449.15
+1,130,22104,Vestuario de Policia Municipal ,1,130,2,4000,0,4000,4185.6
+1,130,22199,Suministros Varios Policia Local,1,130,2,2000,0,2000,3692.61
+1,130,22200,Comunicaciones telefónicas Policia Local,1,130,2,9000,0,9000,7984.13
+1,130,22400,Primas Seguros Policia,1,130,2,1500,0,1500,671.11
+1,130,22401,Seguro Vehículos Policía Local,1,130,2,1000,0,1000,798.35
+1,130,22700,Servicios limpieza  Policia,1,130,2,13000,0,13000,11331.65
+1,130,22701,Contratos de Seguridada Policia Local,1,130,2,0,0,0,373.89
+1,130,22719,Servicio retirada de vehiculos,1,130,2,15000,0,15000,3780.54
+1,130,23020,Dietas personal  Policia,1,130,2,800,0,800,464.02
+1,130,23120,Gastos Locomocion Personal,1,130,2,500,0,500,507.25
+1,130,62201,Acondicionamiento Parque Seguridad Vial,1,130,6,22000,0,22000,0
+1,130,62300,Inversiones Instalaciones. Aparato A.Acondicionado,1,130,6,2000,670,2670,2662
+1,130,62301,Alarma Centro Proteccion Ciudadana,1,130,6,11000,0,11000,0
+1,130,62501,Equipamiento Camaras Control Trafico,1,130,6,90000,0,90000,0
+1,132,12000,Retribuciones Básicas Policia Local Bescam ,1,132,1,150000,0,150000,0
+1,132,12004,Retribuciones Básicas Policia Local Bescam C2,1,132,1,0,0,0,144129.33
+1,132,12100,Retribuciones Complementarias Policia Local  Besca,1,132,1,497000,0,497000,488473.53
+1,132,15100,Gratificaciones Policía Municipal Bescam,1,132,1,4000,0,4000,614.27
+1,132,16000,Seguridad Social Policía Municipal Bescam,1,132,1,182250,0,182250,181576.38
+1,132,21400,Reparación Vehículos  Bescam,1,132,2,9450,0,9450,6310.33
+1,132,22104,Vestuario de Policia Municipal  Bescam Dotaciones,1,132,2,7000,0,7000,6956
+1,132,22401,Primas de Seguros Vehículos Bescam,1,132,2,7500,0,7500,7687.82
+1,132,23020,Dietas personal  Policia,1,132,2,1200,0,1200,1602.78
+1,132,23120,Gastos Locomocion Personal,1,132,2,600,0,600,678.03
+1,135,12000,Retribuciones Básicas Funcionarios Protección Civi,1,135,1,16200,100,16300,0
+1,135,12003,Retribuciones Básicas Func Protección Civi C1,1,135,1,0,0,0,14637.06
+1,135,12100,Retribuciones Complem Funcionarios Protección Civi,1,135,1,22727.6,0,22727.6,24348.35
+1,135,15100,Gratificaciones Serv Extincion Incendios,1,135,1,0,1250,1250,1250
+1,135,16000,Cuotas Sociales ,1,135,1,10700,0,10700,10687.56
+1,135,21300,Reparación Maquinaria y Utillaje,1,135,2,3700,-1350,2350,2033.72
+1,135,21400,Reparación Vehículos ,1,135,2,3400,0,3400,3464.47
+1,135,22000,Material Protección Civil,1,135,2,1000,0,1000,1975.98
+1,135,22103,Combustibles y Carburantes,1,135,2,3500,0,3500,2190.63
+1,135,22104,Suministro de Vestuario Proteción Civil,1,135,2,3000,0,3000,3500.51
+1,135,22199,Suministros Varios,1,135,2,1000,0,1000,1682.31
+1,135,22200,Comunicaciones Telefonicas Proteción Civil,1,135,2,1500,0,1500,1846.35
+1,135,22401,Primas de Seguros Vehículos Protección Civil ,1,135,2,4500,0,4500,2170.61
+1,135,22404,Primas de Seguros Accidentes Protección Civil ,1,135,2,2500,0,2500,2024.08
+1,135,23020,Gastos Manutencion Voluntariado,1,135,2,2000,0,2000,1513.16
+1,135,62300,Maquinaria e Instalaciones Proteccion Civil,1,135,6,0,0,0,0
+1,135,62400,Vehículo Protección Civil,1,135,6,50000,35148,85148,41113.3
+1,135,62500,Equipamiento Proteccion Civil,1,135,6,9000,-670,8330,4620.43
+1,151,10000,Retribuciones Altos Cargos,1,151,1,35700,-18487.5,17212.5,17212.5
+1,151,11000,Retribuciones Personal Event.Gabinete,1,151,1,15350,13203.65,28553.65,22223.63
+1,151,12000,Retribuciones Básicas Funcionarios Urbanismo,1,151,1,60000,0,60000,0
+1,151,12001,Retribuciones Básicas Funcionarios Urbanismo A1,1,151,1,0,0,0,14972.01
+1,151,12002,Retribuciones Básicas Funcionarios Urbanismo A2,1,151,1,0,0,0,13107.18
+1,151,12003,Retribuciones Básicas Funcionarios Urbanismo C1,1,151,1,0,0,0,19920.12
+1,151,12004,Retribuciones Básicas Funcionarios Urbanismo C2,1,151,1,0,0,0,9471.6
+1,151,12100,Retribuciones Complem Funcionarios Urbanismo,1,151,1,102090,0,102090,103943.1
+1,151,13000,Retribuciones Personal Fijo Brigada,1,151,1,91460,0,91460,61211.94
+1,151,13100,Retribuciones Personal Fijo Brigada,1,151,1,0,0,0,21609.52
+1,151,16000,Seguros Sociales Personal Urbanismo,1,151,1,87878.61,-1775.53,86103.08,85089.21
+1,151,21000,Repar.y Manten.Infraestructura,1,151,2,195000,0,195000,218962.51
+1,151,21002,Repar.y Mantenim.Infraestructuras INEM,1,151,2,50000,0,50000,10325.7
+1,151,21200,Reparaciones Nave Municipal ,1,151,2,1500,0,1500,0
+1,151,21300,Mantenimiento de Instalaciones y Utillaje,1,151,2,15000,0,15000,20973.54
+1,151,21400,Reparacion vehiculos vias públicas,1,151,2,10000,0,10000,10160.67
+1,151,21500,Mantenimiento Enseres Vias publicas,1,151,2,500,0,500,0
+1,151,22100,Energía Eléctrica  Nave Municipal,1,151,2,0,0,0,85.58
+1,151,22101,Suministro agua Vias Publicas,1,151,2,2500,0,2500,94.94
+1,151,22103,Suministro Combustibles y Carburantes Vias Publica,1,151,2,8500,0,8500,8390.63
+1,151,22104,Vestuario Brigadas Vias Publicas,1,151,2,1500,0,1500,1238.35
+1,151,22199,Suministros Varios Vias Publicas,1,151,2,1000,0,1000,220
+1,151,22200,Comunicaciones Telefónicas Vias Publicas,1,151,2,4000,0,4000,3824.68
+1,151,22400,Seguros Urbanismo,1,151,2,3500,0,3500,2567.83
+1,151,22604,Indemnizaciones Responsabilidad Patrimonial Viario,1,151,2,10000,0,10000,3350.71
+1,151,22701,Contratos de Seguridad Nave Municipal ,1,151,2,0,0,0,736.89
+1,151,22706,Servicios Tecnicos Urbanisticos y topograficos,1,151,2,42000,0,42000,57244.63
+1,151,22706,REM Ejecucion Subsidiaria Calle Becerril,1,151,2,0,22687.5,22687.5,10340.87
+1,151,23120,Gastos Locomoción Urbanisticos,1,151,2,500,0,500,0
+1,151,62700,REM Estudios y Trabajos Técnicos,1,151,6,0,75567.79,75567.79,50950.08
+1,153,61000,Infraestrucuras Generales,1,153,6,109000,275000,384000,269852.34
+1,153,61001,Inversion Infraestructuras Aceras,1,153,6,94500,0,94500,89958.39
+1,153,62700,REM Estudios y Trabajos Técnicos,1,153,6,0,37366.37,37366.37,18403.25
+1,161,21000,Reparaciones Servicio de Aguas,1,161,2,170000,-9800,160200,148984.23
+1,161,22700,Limpieza de Alcantarillado,1,161,2,12000,0,12000,1009.71
+1,161,22708,Servicios Recaudacion Canal Isabel II,1,161,2,19000,0,19000,22630.86
+1,161,61000,Inversiones Infraestructura Servicio Aguas y Alcan,1,161,6,128000,95000,223000,85092.97
+1,162,22501,Tasa Autonomicas Eliminacion Residuos,1,162,2,40000,0,40000,40749.71
+1,162,22700,Contrato Recogida de basuras,1,162,2,320000,0,320000,291096
+1,162,22702,Contrato  Explotacion Punto Limpio ,1,162,2,27632,0,27632,27632.52
+1,163,22700,Contrato Limpieza Viaria,1,163,2,335000,0,335000,308657.95
+1,163,22719,Servicio de Limpieza y Desinfección Viaria Infraes,1,163,2,8000,0,8000,6024.81
+1,164,62200,Fosas de Cementerio,1,164,6,0,25000,25000,18077.4
+1,164,62200,REM Fosas de Cementerio,1,164,6,0,14520,14520,14520
+1,165,21001,Reparac.y Manten.Alumbrado Publico,1,165,2,0,0,0,44761.86
+1,165,22100,Suministro de Energía Eléctrica Vias Publicas,1,165,2,335752.55,-3008.88,332743.67,221847.98
+1,165,22719,Reparac.y Manten.Alumbrado Publico,1,165,2,0,0,0,30461.53
+1,165,48900,Subvención Reintegro Suministro Electrico Viario,1,165,4,0,3008.88,3008.88,3008.88
+1,165,62300,Inversion Reposicion de Alumbrado Público,1,165,6,248000,0,248000,25905.91
+1,171,10000,Retribuciones Concejala de Medio Ambiente ,1,171,1,36740.58,-25420.41,11320.17,11320.17
+1,171,11000,Retribuciones Directora de medio Ambiente,1,171,1,4650,-540.22,4109.78,4109.78
+1,171,16000,Seguridad Social Personal  Organos de Gobierno,1,171,1,11994.52,-7123.18,4871.34,4871.34
+1,171,21000,Repar.y Manten.Infraestructura Parques,1,171,2,8000,6400,14400,8846.32
+1,171,21300,Reparacion  Mobiliario  y Columpios,1,171,2,35000,-22200,12800,13875.35
+1,171,22101,Parques Suministro de Agua,1,171,2,15000,0,15000,3874
+1,171,22200,Comunicaciones telefónicas,1,171,2,1200,0,1200,300.11
+1,171,22501,Tasas  y Otros Tributos,1,171,2,900,-400,500,975.26
+1,171,22605,Gastos  de  Comunicación Medio Ambiente,1,171,2,0,0,0,2770.9
+1,171,22718,Contrato  de Prestación Servicios Manten Jardines,1,171,2,395000,-5300,389700,392309.78
+1,171,22719,Contrato Servicios   y Tratamien Anim Domésticos,1,171,2,4000,-1300,2700,2851.74
+1,171,61000,Inversiones Jardines ,1,171,6,24000,183000,207000,150974.56
+1,171,61000,REM Inversiones Infraestructura jardines y Caminos,1,171,6,0,3448.5,3448.5,3448.5
+1,171,61001,REM Cerramiento La Dehesa,1,171,6,0,40280.29,40280.29,34648.74
+1,171,62500,Equipamiento de Columpios y Mobiliario de Jardines,1,171,6,52000,20000,72000,40898.73
+1,171,62601,Programa Informático Rutas Ambientales,1,171,6,0,0,0,5989.5
+1,221,12700,Aportacion Plan Pensiones Personal,1,221,1,25000,0,25000,23667.15
+1,221,16200,Accion Formacion y perfecionamiento del personal,1,221,1,4160,0,4160,3511.29
+1,221,16201,Formacion y Perfeccionamiento Policia,1,221,1,1840,0,1840,0
+1,221,16203,Acción Social Asistencia Sanitaria Funiconarios,1,221,1,9910,0,9910,7487.5
+1,221,16204,Acción Social del Personal Laboral ,1,221,1,5250,0,5250,431.28
+1,230,10000,Retribuciones Altos Cargos,1,230,1,0,13620.6,13620.6,5264.47
+1,230,11000,Retribuciones Personal Event.Gabinete Servicios So,1,230,1,4650,0,4650,4109.78
+1,230,13000,Retribuciones Personal laboral Limpieza,1,230,1,3700,0,3700,0
+1,230,16000,Cotización Seguridad Social,1,230,1,2000,4344.97,6344.97,4215.85
+1,230,21200,Reparaciones en Hogar de Tercera Edad,1,230,2,2000,0,2000,3803.19
+1,230,21300,Reparaciones Maquinaria Hogar de Tercera Edad,1,230,2,12000,0,12000,11901.55
+1,230,22100,Energia Electrica Hogar de Tercera Edad,1,230,2,26000,0,26000,21057.51
+1,230,22101,Agua Hogar de Tercera Edad,1,230,2,4500,0,4500,3269.73
+1,230,22103,Combustible y Carburante Hogar de Tercera Edad,1,230,2,1500,0,1500,751.07
+1,230,22110,Productos Limpieza Hogar de Tercera Edad,1,230,2,1000,0,1000,142.74
+1,230,22199,Suministros varios Hogar de Tercera Edad,1,230,2,1000,0,1000,744.72
+1,230,22200,Teléfono Hogar 3ª Edad y Asistente Social,1,230,2,6500,0,6500,6653.58
+1,230,22601,Actividades Tercera Edad. Comida Tradicional  y ot,1,230,2,50000,-3031,46969,41250.24
+1,230,22700,Contrato Limpieza,1,230,2,18000,0,18000,15798.24
+1,230,22701,Contratos de Seguridad ,1,230,2,0,0,0,1110.78
+1,230,22718,Contrato de Servicios de Podólogo ,1,230,2,5000,0,5000,2659.2
+1,230,22719,Otros Contratos Gestión Servicios ,1,230,2,28000,0,28000,24612.5
+1,230,22720,Contrato Servicios Hogar Mayores: Manuntencion,1,230,2,5500,0,5500,6978.35
+1,230,22721,Contrato de Servicios de Emergencia Social,1,230,2,0,8000,8000,5252.4
+1,230,23000,Asignaciones Asistencias Organos de Gobierno,1,230,2,17400,0,17400,7830
+1,230,46300,Transferencias Mancomunidad Servicios Sociales,1,230,4,180000,3031,183031,183030.91
+1,230,48900,Subvenciones sin animo lucro Servicios sociales,1,230,4,2000,0,2000,1500
+1,230,62201,Reposición Edificio Hogar Tercera Edad,1,230,6,13000,0,13000,0
+1,241,13101,Retribuciones Contratos de Formacion ,1,241,1,0,317730.6,317730.6,303603.4
+1,241,13102,Retribuciones formacion Jovenes Cualificados,1,241,1,0,27241.2,27241.2,1279.2
+1,241,14300,Retrib Complemento Programa Desesmpleados,1,241,1,35000,36000,71000,43054.15
+1,241,14301,Retrib Complemento Colaborac Social II,1,241,1,0,27287.9,27287.9,30261.05
+1,241,16000,Segurodad Social Programa de Colaborac Social  I,1,241,1,0,12276.2,12276.2,553.12
+1,241,16001, Cuots Sociales Personal,1,241,1,6000,0,6000,15789.56
+1,241,16002, Cuotas Sociales Personal Colabo Social II,1,241,1,0,3519.37,3519.37,1639.73
+1,241,16003,Cuotas Sociales Personal formacion Jovenes,1,241,1,0,8758.8,8758.8,0
+1,241,22706,Contratos de servicios de Formación ,1,241,2,5000,2400,7400,2400
+1,241,22719,Contratos de servicios de Formación  II,1,241,2,0,108000,108000,105300
+1,320,10000,Retribuciones Altos Cargos,1,320,1,0,9999.99,9999.99,9999.99
+1,320,13000,Retribuciones Personal Fijo Educación,1,320,1,114000,0,114000,112470.96
+1,320,16000,Seguros sociales Personal Educación,1,320,1,38402.48,3190,41592.48,37921.23
+1,320,21200,Reparación y mantenimiento Edificios Educación,1,320,2,30000,0,30000,14637.05
+1,320,21300,Reparacion y Manten de Maquinaria e Instalac,1,320,2,30000,0,30000,40165.4
+1,320,21500,Reparación mobiliario y enseres,1,320,2,1000,0,1000,0
+1,320,22100,Suministro Electrico Educacion,1,320,2,35000,0,35000,26801.9
+1,320,22101,Suminsitro Agua Educacion,1,320,2,13000,0,13000,13709.54
+1,320,22103,Combustibles y Carburantes,1,320,2,85000,-15930,69070,40234.6
+1,320,22104,Vestuario Personal Educación,1,320,2,1000,0,1000,0
+1,320,22110,Productos limpieza y aseo,1,320,2,5000,0,5000,3500.3
+1,320,22199,Suministros Varios Educacion,1,320,2,1000,7600,8600,6325.85
+1,320,22200,Comunicaciones Telefónicas Educación,1,320,2,2000,0,2000,2315.53
+1,320,22300,Alquiler Transportes Actividades Escolares,1,320,2,1000,0,1000,50
+1,320,22400,Seguros Educación,1,320,2,200,0,200,0
+1,320,22700,Contrato de Servicio de Limpieza Educacion ,1,320,2,78500,0,78500,75392.54
+1,320,22701,Contratos de Seguridad Educacion ,1,320,2,0,0,0,6764.82
+1,320,22706,Contrato Prestación Servicios Casa de Niños,1,320,2,147000,0,147000,144380.01
+1,320,22718,Contratos Servicios de Apoyo  Prevenc  Dental,1,320,2,2000,0,2000,1296
+1,320,22720,Contratos Servicios de Apoyo  y Otros Educativos,1,320,2,6000,-6000,0,0
+1,320,23000,Asignaciones Asistencias Organos de Gobierno,1,320,2,17400,-9570,7830,7830
+1,320,48900,Subvenciones Colegio Publico,1,320,4,5000,6500,11500,10940.26
+1,320,62200,Inversiones en Edificios Educativos,1,320,6,18000,65000,83000,34036.2
+1,320,62300,Inversiones en Maquinaria y  Utillajes Colegios,1,320,6,0,0,0,46333.36
+1,320,62500,Mobiliario Educacion,1,320,6,15000,0,15000,9748.97
+1,320,62700,Estudios y Trabajos Técnicos,1,320,6,70000,0,70000,22746.21
+1,320,62700,REM Inversiones en Edificios Educativos,1,320,6,0,21659,21659,21659
+1,332,12000,Retribuciones  Basicas Funcionarios Biblioteca,1,332,1,40000,0,40000,0
+1,332,12002,Retribuciones  Basicas Funcionarios Biblioteca A2,1,332,1,0,0,0,13606.32
+1,332,12003,Retribuciones  Basicas Funcionarios Biblioteca C1,1,332,1,0,0,0,11789.93
+1,332,12004,Retribuciones  Basicas Funcionarios Biblioteca C2,1,332,1,0,0,0,18464.43
+1,332,12100,Retribuciones  Complemen Funcionarios. ,1,332,1,62000,0,62000,60993.52
+1,332,13000,Retribuciones Personal Fijo Biblioteca,1,332,1,0,0,0,551.55
+1,332,16000,Gastos Sociales Personal Biblioteca,1,332,1,30597,0,30597,26394.42
+1,332,21200,Reparacion Edificio Biblioteca,1,332,2,4000,0,4000,3893.5
+1,332,21300,Reparacion maquinaria e instalac  Biblioteca,1,332,2,3000,0,3000,1300.32
+1,332,21600,Reparacion y Mantenimiento de Equipos Infor,1,332,2,3000,0,3000,2457.58
+1,332,22000,Material Ordinario no inventar,1,332,2,2000,0,2000,0
+1,332,22001,"Prensa, Revistas y Otros",1,332,2,6500,0,6500,9480.42
+1,332,22002,Consumibles Informáticos,1,332,2,300,0,300,0
+1,332,22100,Suministro energia Electrica Biblioteca,1,332,2,10200,0,10200,10491.21
+1,332,22101,Suministro de  Agua,1,332,2,500,0,500,291.52
+1,332,22110,Suministros de Productos de Limpieza y Aseo,1,332,2,800,0,800,0
+1,332,22199,Suministros  Varios,1,332,2,500,0,500,0
+1,332,22200,Comunicaciones telefónicas Biblioteca,1,332,2,1800,0,1800,2081.84
+1,332,22400,Seguros Biblioteca,1,332,2,500,0,500,0
+1,332,22609,Actividades Culturales y Recreativas,1,332,2,14000,0,14000,10678.63
+1,332,22700,Contratos de Limpieza de Biblioteca,1,332,2,15000,0,15000,15415.4
+1,332,22701,Contrato Seguridad,1,332,2,15000,0,15000,470.69
+1,332,23120,Gastos de Locomoción,1,332,2,200,0,200,91.05
+1,334,10000,Retribuciones Altos Cargos,1,334,1,27815,-4404.37,23410.63,21124.92
+1,334,12000,Retribuciones Básicas Funcionarios,1,334,1,18000,0,18000,0
+1,334,12003,Retribuciones Básicas Funcionarios C1,1,334,1,0,0,0,11118.36
+1,334,12004,Retribuciones Básicas Funcionarios C2,1,334,1,0,0,0,7191
+1,334,12100,Retribuciones Complementarias Funcionarios,1,334,1,34500,0,34500,34960.23
+1,334,13000,Retribuciones Personal Fijo Cultura,1,334,1,105100,-13000,92100,75582.63
+1,334,13100,Retribuciones Personal Temporal  Cultura,1,334,1,0,0,0,10871.07
+1,334,16000,Gastos Sociales Personal de Cultura,1,334,1,56440,-1310,55130,48137.66
+1,334,21200,Reparacion Edificio Cultura,1,334,2,21000,-13196.52,7803.48,4460.47
+1,334,21201,Mantenimiento Edificio Serv Multiples,1,334,2,10000,0,10000,0
+1,334,21300,Reparacion maquinaria e instalac.Cultura,1,334,2,28000,0,28000,35874.22
+1,334,21500,Reparacion Mobiliario y Enseres Cultura,1,334,2,1000,0,1000,3192.55
+1,334,21600,Reparacion y Mantenimiento de Equipos Infor,1,334,2,1000,0,1000,0
+1,334,22000,Material Ordinario no inventar,1,334,2,2000,0,2000,798.3
+1,334,22001,"Prensa, Revistas y Otros",1,334,2,300,0,300,113.89
+1,334,22002,Consumibles Informáticos,1,334,2,1000,0,1000,0
+1,334,22100,Suministro energia cultura,1,334,2,37000,0,37000,39198.58
+1,334,22101,Suministro de  Agua,1,334,2,3000,0,3000,2271.81
+1,334,22103,Suministro combustibles Cultura,1,334,2,30000,0,30000,17196.58
+1,334,22104,Vesturario personal cultura,1,334,2,500,0,500,266.2
+1,334,22110,Suministros de Productos de Limpieza y Aseo,1,334,2,4000,0,4000,2056.72
+1,334,22199,Suministros  Varios,1,334,2,1500,0,1500,462.84
+1,334,22200,Comunicaciones telefónicas Cultura,1,334,2,5000,0,5000,3429.36
+1,334,22400,Seguros Cultura,1,334,2,600,0,600,372.15
+1,334,22601,Atenciones Protocolarias y Representativas,1,334,2,1000,0,1000,82.56
+1,334,22609,Actividades Culturales y Recreativas,1,334,2,80000,9000,89000,99798.36
+1,334,22700,Contrato de Servicio de Limpieza  Casa Cultura,1,334,2,0,13000,13000,11425.26
+1,334,22701,Contratos de Seguridada Cultura,1,334,2,0,0,0,640.09
+1,334,22706,Contratos de Prestacion de Servicios Talleres,1,334,2,160000,0,160000,138293.6
+1,334,22708,Contrato Servicios: Escuela de Música,1,334,2,53000,0,53000,52999.92
+1,334,22718,Encomienda Getion Plaza Toros y Escuela Taurina,1,334,2,0,83100,83100,83100
+1,334,22719,Contrato de Servicios Sustitucion de Empleados,1,334,2,0,0,0,4333.91
+1,334,23020,Dietas personal ,1,334,2,300,0,300,0
+1,334,23120,Gastos de Locomoción,1,334,2,300,0,300,0
+1,334,44900,Transferencias Corrientes Sociedad Municipal ,1,334,4,83100,-83100,0,0
+1,334,62200,Inversioens Reposición Biblioteca,1,334,6,70000,0,70000,0
+1,334,62300,Equipamiento de Instalaciones. y Utillajes ,1,334,6,0,4196.52,4196.52,4196.52
+1,338,22608,Festejos populares de Septiembre,1,338,2,250000,0,250000,241146.75
+1,338,22610,Otros Festejos Populares,1,338,2,30000,0,30000,33151.05
+1,339,21200,Reparación y Mantenimiento Edificios,1,339,2,0,0,0,500.54
+1,339,22609,Actividades Juveniles  y Recreativas,1,339,2,45000,0,45000,44524.16
+1,339,22700,Contratos de servicios juveniles,1,339,2,110000,0,110000,99801.68
+1,340,10000,Retribuciones Altos Cargos,1,340,1,36740.58,-15420.42,21320.16,23605.87
+1,340,11000,Retribuciones Personal Event.Gabinete,1,340,1,8700,-1010.32,7689.68,7689.68
+1,340,12000,Retribuciones Basicas Funcionarios,1,340,1,16000,0,16000,0
+1,340,12004,Retribuciones Básicas Funcionarios C2,1,340,1,0,0,0,14944.52
+1,340,12100,Retribuciones Complementarias Funcionarios de Carr,1,340,1,29000,0,29000,29752.89
+1,340,13000,Retribuciones Personal Laboral Fijo,1,340,1,145000,0,145000,99540.44
+1,340,13100,Retribuciones Personal Laboral Temporal,1,340,1,0,0,0,28998.29
+1,340,13101,Retribuciones Personal Monitor ,1,340,1,15000,0,15000,14930.42
+1,340,16000,Seguridad Social ,1,340,1,68994.52,-5000,63994.52,57025.44
+1,340,16001,Seg.Soc.Monitores Actividades,1,340,1,5200,0,5200,4692.24
+1,340,21200,Mantenimiento de Polideportivo Municipal ,1,340,2,12000,0,12000,782.41
+1,340,21300,Mantenimiento y Reparaciçon Instalaciones,1,340,2,45000,-12800,32200,31740.19
+1,340,21600,Mantenimiento de Equipos Informaticos,1,340,2,0,0,0,1452
+1,340,22000,Material oficina no inventariable,1,340,2,3000,0,3000,506.54
+1,340,22100,Suministro de Energia Electrica,1,340,2,35000,0,35000,33442.38
+1,340,22101,Sumnistro agua,1,340,2,7750,0,7750,690.61
+1,340,22103,Combustible instalaciones deportivas,1,340,2,21000,0,21000,9802.68
+1,340,22104,Vestuario Deportes,1,340,2,2000,0,2000,1270.41
+1,340,22110,Productos de limpieza y aseo,1,340,2,500,0,500,994.86
+1,340,22113,Suministro material deportivo,1,340,2,5000,15000,20000,24862.78
+1,340,22199,Otros suministros,1,340,2,500,0,500,128.24
+1,340,22200,Comunicaciones Telefónicas,1,340,2,4000,0,4000,3558.46
+1,340,22300,Alquiler trasportes actividadaes,1,340,2,22000,0,22000,22808.5
+1,340,22400,Seguros,1,340,2,8500,0,8500,5074.59
+1,340,22609,Actividades y concentraciones deportivas,1,340,2,34000,0,34000,27896.45
+1,340,22700,Servicios limpieza  Deportes,1,340,2,56000,0,56000,55036
+1,340,22701,Contratos de Seguridada Deportes,1,340,2,0,0,0,965.58
+1,340,22706,Contrato gestion serv. deportivos,1,340,2,325000,-3700,321300,308586.94
+1,340,23020,Dietas personal ,1,340,2,500,0,500,0
+1,340,23120,Gastos Locomocion Personal,1,340,2,0,0,0,1132.3
+1,340,46600,Agrupacion Deportiva de la Sierra,1,340,4,8500,0,8500,8082
+1,340,48900,Subvenciones,1,340,4,8000,3700,11700,11700
+1,340,62200,Inversiones en Edificios Deportivos,1,340,6,25000,335000,360000,313662.48
+1,340,62300,Instalaciones Edificios Deportivos,1,340,6,40000,37800,77800,88061.65
+1,340,62600,Equipamiento Informático Deportes,1,340,6,0,0,0,1275.97
+1,343,21200,Mantenimiento Piscina,1,343,2,20000,0,20000,11618.43
+1,343,21300,Reparacion maquinaris y utillaje,1,343,2,30000,0,30000,28193.37
+1,343,22100,Suministro electrico,1,343,2,82000,0,82000,67548.86
+1,343,22101,Suministro agua y bromo,1,343,2,44000,0,44000,22845.8
+1,343,22103,Combustible instalaciones pisicna,1,343,2,115000,0,115000,78986.93
+1,343,22199,Otros suministros,1,343,2,1000,0,1000,0
+1,343,22400,Seguros,1,343,2,1400,0,1400,572.84
+1,343,22700,Servicio de limpieza instalaciones piscina,1,343,2,50000,0,50000,48998.88
+1,343,22701,Contratos de Seguridad Piscina,1,343,2,0,0,0,470.69
+1,343,22706,Contrato monitores Piscina,1,343,2,65000,0,65000,59035.5
+1,343,22708,Contrato de mantenimiento piscina,1,343,2,35000,0,35000,31280.74
+1,343,22799,Contrato servicios socorristas,1,343,2,70000,0,70000,62185.32
+1,343,62500,Material Ocio Piscina,1,343,6,8000,0,8000,7667.77
+1,430,22199,Suministros Varios ,1,430,2,2000,0,2000,987.97
+1,430,22606,Feria de Comercio Local ,1,430,2,22000,0,22000,12876.89
+1,430,22610,Actividades Fomento de Comercio Local ,1,430,2,50000,0,50000,45017.61
+1,430,62700,Proyecto Circuito Ruta Media,1,430,6,18000,0,18000,17877.75
+1,493,22706,Contratos de servicios Convenio de Consumo,1,493,2,5000,0,5000,4628.25
+1,912,10000,Retribuciones Altos Cargos,1,912,1,141575,0,141575,140627.36
+1,912,11000,Retribuciones Personal Event.Gabinete,1,912,1,67200,-18857.34,48342.66,52084.66
+1,912,12000,Retribuciones Básicas Funcionarios,1,912,1,12169,7000,19169,0
+1,912,12003,Retribuciones Básicas Funcionarios C1,1,912,1,0,0,0,10218.84
+1,912,12100,Retribuciones Complementarias Funcionarios,1,912,1,18000,0,18000,19927.24
+1,912,16000,Cotización Seguridad Social,1,912,1,65721.07,-6000,59721.07,62048.53
+1,912,21300,Reparacion y mantenimiento maquinaria  e instalac,1,912,2,6500,0,6500,6289.92
+1,912,21500,Reparacion mobiliario y enseres Equip.Gobierno,1,912,2,400,0,400,0
+1,912,22001,"Prensa, Revistas, Libros y otras Publicaciones",1,912,2,400,0,400,0
+1,912,22199,Suministros varios Equipo Gobierno y Gabinete Pren,1,912,2,1000,0,1000,0
+1,912,22200,Gastos de telefonia ,1,912,2,7000,0,7000,4703.22
+1,912,22400,Seguros,1,912,2,100,0,100,0
+1,912,22601,Gastos de representacion Equipo de Gobierno,1,912,2,20000,0,20000,12075.9
+1,912,22604,Gastos Juridicos  Equipo de Gobierno,1,912,2,2000,0,2000,0
+1,912,22605,Gastos  de  Comunicación,1,912,2,50000,0,50000,43268.63
+1,912,22699,Cuotas Federacion de Municipios,1,912,2,2000,0,2000,1524.65
+1,912,23030,Asignaciones Asistencias Organos de Gobierno,1,912,2,10000,0,10000,12410.65
+1,912,23120,Gastos Locomocion Equipo de Gobierno,1,912,2,9500,0,9500,71.28
+1,912,48900,Subvenciones  Grupos Políticos,1,912,4,10000,0,10000,9526.54
+1,912,62300,Inversiones en Maqunaria y Enseres: Carpa,1,912,6,25000,0,25000,0
+1,920,12000,Retribuciones Basicas Funcionarios de Carrera,1,920,1,81000,5000,86000,0
+1,920,12001,Retribuciones Basicas Funcionarios de Carrera A1,1,920,1,0,0,0,15680.16
+1,920,12002,Retribuciones Basicas Funcionarios de Carrera A2,1,920,1,0,0,0,28642.71
+1,920,12003,Retribuciones Basicas Funcionarios de Carrera C1,1,920,1,0,0,0,11220.48
+1,920,12004,Retribuciones Basicas Funcionarios de Carrera C2,1,920,1,0,0,0,17270.37
+1,920,12005,Retribuciones Basicas Funcionarios de Carrera E,1,920,1,0,0,0,7066.56
+1,920,12100,Retribuciones Compl Funcionarios de Carrera,1,920,1,166000,0,166000,168063.87
+1,920,13000,Retribuciones Personal Laboral Fijo Adm,1,920,1,26600,0,26600,30445.19
+1,920,16000,Gastos Seg.Social Administracion,1,920,1,70000,0,70000,69491.81
+1,920,21200,Reparacion Edificios,1,920,2,3000,0,3000,235.95
+1,920,21300,Reparacion Maquinaria e Instalaciones,1,920,2,12000,0,12000,15643.48
+1,920,21301,Reparacion Relosj Casa Consistorial ,1,920,2,700,0,700,0
+1,920,21302,Reparacion Mantenimiento de Calefaccion ,1,920,2,6000,-6000,0,0
+1,920,21303,Reparacion Mantenimiento de Ascensor,1,920,2,3000,0,3000,0
+1,920,21400,Reparacion Vehiculos Administracion,1,920,2,1200,0,1200,479.03
+1,920,21500,Reparaciçon y Mantenimiento de Mobiliario y Ensere,1,920,2,7000,-7000,0,0
+1,920,21600,Mantenimiento de Equipos Informaticos,1,920,2,10000,0,10000,7468.53
+1,920,21601,Mantenimiento de  Programas Informaticos,1,920,2,17000,0,17000,19342.63
+1,920,22000,Material Oficina Administracion,1,920,2,20000,0,20000,14977.64
+1,920,22001,Publicaciones Admon.General,1,920,2,6000,0,6000,6777.52
+1,920,22002,Material Informatico no Inventariable,1,920,2,2000,0,2000,0
+1,920,22100,Suministros Energia Electrica Admon,1,920,2,30000,0,30000,27004.81
+1,920,22101,Suministros Agua Admon,1,920,2,2000,0,2000,2043.96
+1,920,22103,Suministros Combustibles y Carburantes Admon,1,920,2,1300,0,1300,996.26
+1,920,22104,Vestuario de Administracion,1,920,2,2000,0,2000,1115.88
+1,920,22110,Productos de Limpieza y Aseo,1,920,2,1500,0,1500,1759.01
+1,920,22199,Suministros Varios Admon.,1,920,2,500,0,500,540.01
+1,920,22200,Consumo Telefonico Admon,1,920,2,20000,0,20000,21385.39
+1,920,22201,Comunicaciones Postales y Telegraficas,1,920,2,37000,0,37000,38938.47
+1,920,22400,Primas Seguros Responsab. Civil Admon,1,920,2,16500,0,16500,14255.95
+1,920,22402,Seguro vehiculos,1,920,2,500,0,500,458.02
+1,920,22403,Seguro multiriesgo edificios,1,920,2,16000,0,16000,13648.42
+1,920,22501,Tributos a la Administracion,1,920,2,500,0,500,422.51
+1,920,22602,Anuncios en Boletines y Prensa,1,920,2,20000,0,20000,15091.92
+1,920,22605,Canones Registro ,1,920,2,5000,0,5000,2367.86
+1,920,22701,Contrato Seguridad Casa Consistorial,1,920,2,1500,0,1500,719.74
+1,920,22705,Procesos Electorales,1,920,2,0,0,0,2004.59
+1,920,22706,Prevenciçon de Riesgos Laborales,1,920,2,20000,0,20000,14689.63
+1,920,22709,Mantenimiento y Gestion Servicios financieros,1,920,2,4000,0,4000,3714.29
+1,920,22710,Contrato de Asistencia Juridica y Letrada,1,920,2,30000,0,30000,25467.26
+1,920,22717,Contrato de Servicios Informática ,1,920,2,120000,0,120000,109574.63
+1,920,22720,Servicio de Mensajería,1,920,2,3000,0,3000,0
+1,920,23020,Dietas personal ,1,920,2,1500,0,1500,1835.7
+1,920,23120,Gastos Locomocion Personal,1,920,2,1500,0,1500,402.61
+1,920,62500,Equipamientos Mobiliario,1,920,6,7000,0,7000,942.69
+1,920,62600,Inversiones en Equipos Informáticos,1,920,6,44500,13000,57500,45270.29
+1,920,62600,REM Inversiones en Equipos Informáticos,1,920,6,0,68026.54,68026.54,66940.67
+1,920,62601,REM Aplicaciones Informaticas,1,920,6,0,21396.43,21396.43,21396.43
+1,925,12000,Retribuciones Basicas Funcionarios de Carrera,1,925,1,43000,0,43000,0
+1,925,12003,Retribuciones Basicas Funcionarios de Carrera C1,1,925,1,0,0,0,10446.6
+1,925,12004,Retribuciones Basicas Funcionarios de Carrera C2,1,925,1,0,0,0,31986
+1,925,12100,Retribuciones Compl Funcionarios de Carrera,1,925,1,90000,0,90000,90495.01
+1,925,16000,Gastos Seg.Social Administracion,1,925,1,33500,0,33500,33027
+1,931,12000,Retribuciones Basicas Funcionarios de Carrera,1,931,1,115000,-12000,103000,0
+1,931,12001,Retribuciones Basicas Funcionarios de Carrera A1,1,931,1,0,0,0,14845.68
+1,931,12002,Retribuciones Basicas Funcionarios de Carrera A2,1,931,1,0,0,0,14868
+1,931,12003,Retribuciones Basicas Funcionarios de Carrera C1,1,931,1,0,0,0,49812.31
+1,931,12004,Retribuciones Basicas Funcionarios de Carrera C2,1,931,1,0,0,0,21333.37
+1,931,12005,Retribuciones Basicas Funcionarios de Carrera E,1,931,1,0,0,0,6904.51
+1,931,12100,Retribuciones Compl Funcionarios de Carrera,1,931,1,239000,0,239000,228513.35
+1,931,16000,Gastos Seg.Social Administracion,1,931,1,93000,0,93000,86905.33
+#1,,,0,1,,,11464717,1817314.49,13282031.49,11455442.88
