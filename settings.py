@@ -145,12 +145,7 @@ OVERVIEW_INCOME_NODES = [
                             'label': 'Servicio de abastecimiento de agua',
                             'link_id': '30'
                           },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
-                          },
+                          '42', '45', '34',
                           {
                             'nodes': [['11', '115']],
                             'label': 'Impuesto sobre vehículos de tracción mecánica',
@@ -160,10 +155,10 @@ OVERVIEW_INCOME_NODES = [
                             'nodes': [['30', '302']],
                             'label': 'Servicio de recogida de basuras',
                             'link_id': '30'
-                          },
+                          }
                         ]
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['34', '13', '33', '16', '15', '92']
 
 # How much padding between Sankey nodes. Default: 10 (Optional)
 # Note: higher values will result in a more 'curvy accordion'.
