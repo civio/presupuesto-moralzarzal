@@ -25,6 +25,6 @@ class MoralzarzalPaymentsLoader(PaymentsLoader):
             'contract_type': None,
             'payee': self._titlecase(line[10].strip()),
             'anonymized': False,
-            'description': line[11].strip(),
+            'description': line[11].strip()[:300].decode('utf-8','ignore').encode('utf-8'),
             'amount': self._read_english_number(line[12])
         }
