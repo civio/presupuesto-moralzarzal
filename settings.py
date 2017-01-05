@@ -141,21 +141,11 @@ OVERVIEW_INCOME_NODES = [
                             'link_id': '11'
                           },
                           {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
-                          },
-                          '42', '45', '34',
-                          {
                             'nodes': [['11', '115']],
                             'label': 'Impuesto sobre vehículos de tracción mecánica',
                             'link_id': '11'
                           },
-                          {
-                            'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
-                            'link_id': '30'
-                          }
+                          '30', '42', '45', '34'
                         ]
 
 OVERVIEW_EXPENSE_NODES = ['34', '13', '33', '16', '15', '92']
