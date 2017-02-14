@@ -12,9 +12,9 @@ $gray-lightest:         lighten($gray-base, 96%) !default;
 
 $text-color:            #414141;
 
-$brand-primary:         #d32e12;
-$brand-secondary:       #49647A;
-$brand-terciary:        #DDCFC1;
+$brand-primary:         #990000;
+$brand-secondary:       #282A2B;
+$brand-terciary:        #ECECEC;
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -24,7 +24,7 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-base:        $font-family-sans-serif;
 
@@ -48,8 +48,8 @@ $container-large-desktop:  (1050px + $grid-gutter-width);
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   81px;
-$main-entity-logo-height:  68px;
+$main-entity-logo-width:   116px;
+$main-entity-logo-height:  136px;
 
 
 // Navbar
@@ -77,7 +77,7 @@ $navbar-default-link-active-bg:       $brand-terciary;
 // --------------
 
 $footer-color: white;
-$footer-bg: $brand-primary;
+$footer-bg: $brand-secondary;
 
 
 // Page Header
@@ -90,8 +90,8 @@ $page-header-border-color:  mix( $brand-secondary, white, 70% );
 // Panels
 // ---------------
 
-$panel-default-border:      $brand-secondary;
-$panel-default-heading-bg:  $brand-secondary;
+$panel-default-border:      $brand-primary;
+$panel-default-heading-bg:  $brand-primary;
 
 
 // Buttons
@@ -161,7 +161,7 @@ $search-form-bg: $brand-terciary;
 // Budget Stream
 // --------------
 
-$budget-stream-color: $brand-secondary;
+$budget-stream-color: mix( $brand-secondary, white, 75% );
 
 
 // Year Slider
