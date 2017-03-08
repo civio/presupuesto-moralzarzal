@@ -15,7 +15,7 @@ class MoralzarzalPaymentsLoader(PaymentsLoader):
         # We use dateutil.parser to parse the date no matter which format is used and then set
         # the format to the one expected by the item loader
         date = line[5].strip()
-        date = dateutil.parser.parse(date).strftime("%Y-%m-%d")
+        date = dateutil.parser.parse(date, dayfirst=True).strftime("%Y-%m-%d")
 
         # Normalize payee data
         payee = line[7].strip()
