@@ -2,6 +2,7 @@
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
 import dateutil.parser
+import re
 
 class MoralzarzalPaymentsLoader(PaymentsLoader):
 
@@ -18,8 +19,33 @@ class MoralzarzalPaymentsLoader(PaymentsLoader):
         date = dateutil.parser.parse(date, dayfirst=True).strftime("%Y-%m-%d")
 
         # Normalize payee data
+        # remove triling spaces
         payee = line[7].strip()
+        # remove commas
+        payee = payee.replace(', ', ' ').replace(',', ' ')
+        # normalize company types
+        payee = re.sub(r'SL$', 'S.L.', payee)
+        payee = re.sub(r'SLL$', 'S.L.L.', payee)
+        payee = re.sub(r'SLU$', 'S.L.U.', payee)
+        payee = re.sub(r'SA$', 'S.A.', payee)
+        payee = re.sub(r'S A$', 'S.A.', payee)
+        payee = re.sub(r'S.A.OK$', 'S.A.', payee)
+        payee = re.sub(r'SAU$', 'S.A.U.', payee)
+        # titleize to avoid all caps
         payee = self._titlecase(payee)
+        # put small words in lower case
+        payee = re.sub(r' E ', ' e ', payee)
+        payee = re.sub(r' De ', ' de ', payee)
+        payee = re.sub(r' Del ', ' del ', payee)
+        payee = re.sub(r' Y ', ' y ', payee)
+        # put abbreviatons in upper case
+        payee = re.sub(r'^Jc ', 'JC ', payee)
+        payee = re.sub(r'^Mgs ', 'MGS ', payee)
+        payee = re.sub(r' Ii ', ' II ', payee)
+        payee = re.sub(r' Sdg ', ' SDG ', payee)
+        # amend remaining
+        payee = re.sub(r'de Isidro', 'De Isidro', payee)
+        payee = re.sub(r'Canal Isabel', 'Canal de Isabel', payee)
 
         # We truncate the description to the maximum length supported in the data model
         # and fix enconding errors
