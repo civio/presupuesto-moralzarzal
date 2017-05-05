@@ -159,7 +159,7 @@ OVERVIEW_EXPENSE_NODES = ['34', '13', '33', '16', '15', '92']
 # OVERVIEW_RELAX_FACTOR = 0.5
 
 # Adjust inflation in amounts in Overview page. Default: True
-# ADJUST_INFLATION_IN_OVERVIEW = False
+ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
