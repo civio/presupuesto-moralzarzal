@@ -523,9 +523,9 @@ G,9,4,,Devolución de depósitos y fianzas
 G,9,4,0,Devolución de depósitos
 G,9,4,1,Devolución de fianzas
 #
-#
 # Conceptos específicos de Moralzarzal
 #
-I,4,8,0,"A familias e instituciones sin fines de lucro"
+I,4,8,0,"De familias e instituciones sin fines de lucro"
 I,5,2,0,"Intereses de depósitos"
+G,4,8,0,"A familias e instituciones sin fines de lucro"
 G,4,8,9,"Otras transferencias corrientes a familias e instituciones sin fines de lucro"

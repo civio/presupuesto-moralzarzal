@@ -1,64 +1,69 @@
 #Ejercicio,Org.,Econ.,Denominación,Previsiones Iniciales,Modificaciones de previsiones,Previsiones Definitivas,Derechos reconocidos
-2017.0,1.0,11200,Impuesto sobre Bienes Inmuebles Rústica,667.0,0.0,667.0,0.0
-2017.0,1.0,11300,Impuesto sobre Bienes Inmuebles Nat. Urbana,3179073.26,0.0,3179073.26,1335.51
-2017.0,1.0,11500,Impuesto sobre Vehiculos de Tracción Mecanica,925000.0,0.0,925000.0,701033.7
-2017.0,1.0,11600,Impuesto Incremento Valor Terrenos Urbanos,475000.0,0.0,475000.0,144011.06
-2017.0,1.0,13000,Impuesto sobre Actividades Económicas,100000.0,0.0,100000.0,9918.86
-2017.0,1.0,29000,"Impuesto sobre Construcciones, Instalaciones y Obr",110000.0,0.0,110000.0,19147.1
-2017.0,1.0,30000,Tasa por suministro de agua potable a domicilios,320000.0,0.0,320000.0,54344.38
-2017.0,1.0,30100,Tasa Servicio de Alcantarillado,325000.0,0.0,325000.0,56845.71
-2017.0,1.0,30200,Tasa Servicio de Recogida de Basuras,476000.0,0.0,476000.0,-6.72
-2017.0,1.0,31000,Tasa por Servicios Sanitario de Protección Civil,1000.0,0.0,1000.0,0.0
-2017.0,1.0,31305,Tasa Talleres Biblioteca,1200.0,0.0,1200.0,629.2
-2017.0,1.0,31900,Tasa de Servicios Funerarios y Cementerios,17500.0,0.0,17500.0,5445.0
-2017.0,1.0,32100,Tasa por Licencia Urbanistica,100000.0,0.0,100000.0,53535.79
-2017.0,1.0,32300,Tasa Licencias¡ de Apertura y Actividad,21551.6,0.0,21551.6,3062.3
-2017.0,1.0,32500,Tasa expedición de documentos,3000.0,0.0,3000.0,654.25
-2017.0,1.0,32600,Tasa Retirada de Vehículos,5000.0,0.0,5000.0,673.3
-2017.0,1.0,33100,"Tasa Uso Suelos, Entrada Vehiculos Aceras",15000.0,0.0,15000.0,316.39
-2017.0,1.0,33200,"Tasa Uso Suelos, Subsuelo, Vuelo Compañias Sum",130000.0,0.0,130000.0,23210.55
-2017.0,1.0,33600,"Tasa Uso Suelo, Venta Ambulante Semanal",20000.0,0.0,20000.0,9754.42
-2017.0,1.0,33601,"Tasa Uso Suelo, con Mesas y sillas finalidad luc",25000.0,0.0,25000.0,925.63
-2017.0,1.0,33602,"Tasa Uso Suelo, con Contenedores Mat Construcc",9000.0,0.0,9000.0,414.72
-2017.0,1.0,33800,Compensación Telefónica España SA,35000.0,0.0,35000.0,0.0
-2017.0,1.0,33900,Tasa por Uso de Instalaciones Municipales,5000.0,0.0,5000.0,1898.0
-2017.0,1.0,34200,Servicios  Escuelas impartidas en Casa de Cultura,165000.0,0.0,165000.0,58708.62
-2017.0,1.0,34203,Prec Publicos Actividades Serv Sociales,2700.0,0.0,2700.0,1113.0
-2017.0,1.0,34300,Precio P. Actividades Cursos Deportivos,390000.0,0.0,390000.0,147786.04
-2017.0,1.0,34301,Precio P. Actividades Cursos Piscina Municipal,40000.0,0.0,40000.0,9680.5
-2017.0,1.0,34302,Precio P. Uso de Instalaciones Deportivas,40000.0,0.0,40000.0,18810.62
-2017.0,1.0,34303,Precio P. Uso de Instalaciones Piscina Municipal,60000.0,0.0,60000.0,0.0
-2017.0,1.0,34401,Prec Publico Fiestas Locales,40000.0,0.0,40000.0,80.4
+2017.0,1.0,11200,Impuesto sobre Bienes Inmuebles Rústica,667.0,0.0,667.0,1122.75
+2017.0,1.0,11300,Impuesto sobre Bienes Inmuebles Nat. Urbana,3179073.26,0.0,3179073.26,3268230.14
+2017.0,1.0,11500,Impuesto sobre Vehiculos de Tracción Mecanica,925000.0,0.0,925000.0,1059791.07
+2017.0,1.0,11600,Impuesto Incremento Valor Terrenos Urbanos,475000.0,0.0,475000.0,667717.15
+2017.0,1.0,13000,Impuesto sobre Actividades Económicas,100000.0,0.0,100000.0,148331.97
+2017.0,1.0,29000,"Impuesto sobre Construcciones, Instalaciones y Obr",110000.0,0.0,110000.0,268036.93
+2017.0,1.0,30000,Tasa por suministro de agua potable a domicilios,320000.0,0.0,320000.0,362731.19
+2017.0,1.0,30100,Tasa Servicio de Alcantarillado,325000.0,0.0,325000.0,338213.62
+2017.0,1.0,30200,Tasa Servicio de Recogida de Basuras,476000.0,0.0,476000.0,475901.51
+2017.0,1.0,31000,Tasa por Servicios Sanitario de Protección Civil,1000.0,0.0,1000.0,599.65
+2017.0,1.0,31305,Tasa Talleres Biblioteca,1200.0,0.0,1200.0,2009.15
+2017.0,1.0,31900,Tasa de Servicios Funerarios y Cementerios,17500.0,0.0,17500.0,17194.0
+2017.0,1.0,32100,Tasa por Licencia Urbanistica,100000.0,0.0,100000.0,169939.1
+2017.0,1.0,32300,Tasa Licencias¡ de Apertura y Actividad,21551.6,0.0,21551.6,14493.17
+2017.0,1.0,32500,Tasa expedición de documentos,3000.0,0.0,3000.0,4784.0
+2017.0,1.0,32600,Tasa Retirada de Vehículos,5000.0,0.0,5000.0,4130.1
+2017.0,1.0,33100,"Tasa Uso Suelos, Entrada Vehiculos Aceras",15000.0,0.0,15000.0,14922.38
+2017.0,1.0,33200,"Tasa Uso Suelos, Subsuelo, Vuelo Compañias Sum",130000.0,0.0,130000.0,91569.43
+2017.0,1.0,33600,"Tasa Uso Suelo, Venta Ambulante Semanal",20000.0,0.0,20000.0,15156.92
+2017.0,1.0,33601,"Tasa Uso Suelo, con Mesas y sillas finalidad luc",25000.0,0.0,25000.0,26577.5
+2017.0,1.0,33602,"Tasa Uso Suelo, con Contenedores Mat Construcc",9000.0,0.0,9000.0,22429.63
+2017.0,1.0,33800,Compensación Telefónica España SA,35000.0,0.0,35000.0,42317.7
+2017.0,1.0,33900,Tasa por Uso de Instalaciones Municipales,5000.0,0.0,5000.0,6921.0
+2017.0,1.0,34200,Servicios  Escuelas impartidas en Casa de Cultura,165000.0,0.0,165000.0,181141.89
+2017.0,1.0,34203,Prec Publicos Actividades Serv Sociales,2700.0,0.0,2700.0,3483.0
+2017.0,1.0,34300,Precio P. Actividades Cursos Deportivos,390000.0,0.0,390000.0,488257.56
+2017.0,1.0,34301,Precio P. Actividades Cursos Piscina Municipal,40000.0,0.0,40000.0,62264.81
+2017.0,1.0,34302,Precio P. Uso de Instalaciones Deportivas,40000.0,0.0,40000.0,72109.36
+2017.0,1.0,34303,Precio P. Uso de Instalaciones Piscina Municipal,60000.0,0.0,60000.0,619.0
+2017.0,1.0,34400,Preci Patrimonial Ferias Comercio Turismo,0.0,0.0,0.0,16520.1
+2017.0,1.0,34401,Prec Publico Fiestas Locales,40000.0,0.0,40000.0,66542.43
 2017.0,1.0,34402,Prec Publico Actividaqdes Juveniles,5000.0,0.0,5000.0,0.0
-2017.0,1.0,34403,Entradas Teatro Municipal,35000.0,0.0,35000.0,14178.5
-2017.0,1.0,34900,Convenio Ecoembes Basura selectiva,55000.0,0.0,55000.0,1232.43
-2017.0,1.0,38901,Reintegro de Gastos,0.0,0.0,0.0,16457.63
-2017.0,1.0,39190,Multas Administrativas Generales,50000.0,0.0,50000.0,19512.02
-2017.0,1.0,39211,Recargos de Apremio,85000.0,0.0,85000.0,18643.09
-2017.0,1.0,39212,Recargos de Apremio,0.0,0.0,0.0,0.0
-2017.0,1.0,39300,Intereses de Demora,45000.0,0.0,45000.0,7834.52
-2017.0,1.0,39301,Reintegro de Gastos Procedimientos Ejecutivos,15000.0,0.0,15000.0,1171.6
+2017.0,1.0,34403,Entradas Teatro Municipal,35000.0,0.0,35000.0,44393.97
+2017.0,1.0,34405,Entradas  Actividades Deportivas,0.0,0.0,0.0,21371.09
+2017.0,1.0,34900,Convenio Ecoembes Basura selectiva,55000.0,0.0,55000.0,40807.35
+2017.0,1.0,38901,Reintegro de Gastos,0.0,19541.5,19541.5,194952.3
+2017.0,1.0,38902,Reintegro de Gastos Ejercicios Cerrados,0.0,0.0,0.0,3753.49
+2017.0,1.0,39190,Multas Administrativas Generales,50000.0,0.0,50000.0,131091.41
+2017.0,1.0,39211,Recargos de Apremio,85000.0,0.0,85000.0,117981.74
+2017.0,1.0,39212,Recargos de Apremio,0.0,0.0,0.0,359.05
+2017.0,1.0,39300,Intereses de Demora,45000.0,0.0,45000.0,77438.19
+2017.0,1.0,39301,Reintegro de Gastos Procedimientos Ejecutivos,15000.0,0.0,15000.0,5076.27
 2017.0,1.0,39610,Cuotas de Urbanización Iniciativa Pública,0.0,126236.57,126236.57,1969.55
-2017.0,1.0,39900,Imprevistos,100.0,0.0,100.0,0.0
-2017.0,1.0,42000,Participación Tributos del Estado,2050000.0,0.0,2050000.0,2005327.96
-2017.0,1.0,42090,Transferencias Juzgado de paz y Otros,3750.0,0.0,3750.0,0.0
-2017.0,1.0,45002,Transferencias Corrientes Comunidad de Madrid,125000.0,0.0,125000.0,124854.92
-2017.0,1.0,45003,Transferencias Corrientes Comunidad Madrid BESCAM,727480.0,119080.0,846560.0,0.0
-2017.0,1.0,45004,Transferencias Corrientes Comunidad Madrid PRISMA,226172.56,0.0,226172.56,0.0
-2017.0,1.0,48000,Aportaciones Privadas sin animo de lucro,100.0,0.0,100.0,0.0
+2017.0,1.0,39710,Aprovechamiento Urbanistico Los Linarejo 10%,0.0,0.0,0.0,233292.17
+2017.0,1.0,39900,Imprevistos,100.0,0.0,100.0,8298.89
+2017.0,1.0,42000,Participación Tributos del Estado,2050000.0,0.0,2050000.0,2100469.92
+2017.0,1.0,42090,Otras transferencias del Estado de Juzgado de paz y Otros,3750.0,0.0,3750.0,174.48
+2017.0,1.0,45002,Transferencias Corrientes Comunidad de Madrid,125000.0,504915.79,629915.79,598532.04
+2017.0,1.0,45003,Transferencias Corrientes Comunidad Madrid BESCAM,727480.0,119080.0,846560.0,807896.07
+2017.0,1.0,45004,Transferencias Corrientes Comunidad Madrid PRISMA,226172.56,0.0,226172.56,474854.76
+2017.0,1.0,46600,Transferencias corrientes FEMP,0.0,4404.98,4404.98,4404.98
+2017.0,1.0,48000,Aportaciones Privadas sin animo de lucro,100.0,27756.06,27856.06,33973.75
 2017.0,1.0,48001,Aportaciones Privadas Juventud,100.0,0.0,100.0,0.0
 2017.0,1.0,48002,Aportaciones Privadas Deportes,100.0,0.0,100.0,0.0
-2017.0,1.0,52000,Intereses de Depósito,100.0,0.0,100.0,254.58
-2017.0,1.0,54100,Producto Arrendamiento de fincas urbanas,5500.0,0.0,5500.0,2556.78
+2017.0,1.0,52000,Intereses de Depósito,100.0,0.0,100.0,1461.16
+2017.0,1.0,54100,Producto Arrendamiento de fincas urbanas,5500.0,0.0,5500.0,7781.53
 2017.0,1.0,54101,Explotacion Bares e Instalaciones Municipales,20000.0,0.0,20000.0,0.0
-2017.0,1.0,54200,Poligono Ganadero y Pastos,9500.0,0.0,9500.0,15132.35
-2017.0,1.0,55000,Concesiones Administrativas,440000.0,0.0,440000.0,68552.3
-2017.0,1.0,55400,Aprovechamientos Cinegéticos,2950.0,0.0,2950.0,0.0
+2017.0,1.0,54200,Poligono Ganadero y Pastos,9500.0,0.0,9500.0,18231.56
+2017.0,1.0,55000,Concesiones Administrativas,440000.0,0.0,440000.0,447590.84
+2017.0,1.0,55400,Aprovechamientos Cinegéticos,2950.0,0.0,2950.0,3002.41
 2017.0,1.0,55401,Ocupaciones Monte de U.P  y Aprovechamientos Fores,34000.0,0.0,34000.0,38459.19
 2017.0,1.0,60000,Enajenacion de Solares  y Terrenos Urbanos,180000.0,0.0,180000.0,203707.95
 2017.0,1.0,75080,Subvenciones de Capital Comunidad de Madrid,1170160.0,0.0,1170160.0,0.0
-2017.0,1.0,87000,Remanetes de Tesoreria para Gastos Generales,0.0,195263.02,195263.02,0.0
+2017.0,1.0,87000,Remanetes de Tesoreria para Gastos Generales,0.0,1414302.44,1414302.44,0.0
 2017.0,1.0,87003,Remanentes de  tesoreria IFS 2016,0.0,547080.79,547080.79,0.0
 2017.0,1.0,87010,Remanentes de Tesoreria para Gastos financiación afectada,0.0,76918.61,76918.61,0.0
 2017.0,1.0,91100,Prestamo a Largo Plazo IDAE,1711190.0,0.0,1711190.0,1361319.74
-#,,,,14032894.42,1064578.99,15097473.41,5224493.44
+#,,,,14032894.42,2840236.74,16873131.16,14896704.06
