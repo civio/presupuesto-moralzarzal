@@ -1,0 +1,72 @@
+#Ejercicio,Org.,Econ.,Denominación,Previsiones Iniciales,Modificaciones de previsiones,Previsiones Definitivas,Derechos reconocidos
+1.0,2019.0,11200,Impuesto sobre Bienes Inmuebles Rústica,667.0,0.0,667.0,3123.67
+1.0,2019.0,11300,Impuesto sobre Bienes Inmuebles Nat. Urbana,3150000.0,0.0,3150000.0,3296177.1
+1.0,2019.0,11500,Impuesto sobre Vehiculos de Tracción Mecanica,1000000.0,0.0,1000000.0,1211890.97
+1.0,2019.0,11600,Impuesto Incremento Valor Terrenos Urbanos,310000.0,0.0,310000.0,472872.06
+1.0,2019.0,13000,Impuesto sobre Actividades Económicas,140000.0,0.0,140000.0,139482.77
+1.0,2019.0,29000,"Impuesto sobre Construcciones, Instalaciones y Obr",250000.0,0.0,250000.0,79451.42
+1.0,2019.0,30000,Tasa por suministro de agua potable a domicilios,320000.0,0.0,320000.0,203475.14
+1.0,2019.0,30100,Tasa Servicio de Alcantarillado,325000.0,0.0,325000.0,245021.44
+1.0,2019.0,30200,Tasa Servicio de Recogida de Basuras,485000.0,0.0,485000.0,493783.56
+1.0,2019.0,31000,Tasa por Servicios Sanitario de Protección Civil,600.0,0.0,600.0,505.8
+1.0,2019.0,31305,Tasa Talleres Biblioteca,1400.0,0.0,1400.0,1487.2
+1.0,2019.0,31900,Tasa de Servicios Funerarios y Cementerios,17500.0,0.0,17500.0,8223.5
+1.0,2019.0,32100,Tasa por Licencia Urbanistica,175000.0,0.0,175000.0,138224.04
+1.0,2019.0,32300,Tasa Licencias¡ de Apertura y Actividad,15000.0,0.0,15000.0,13357.4
+1.0,2019.0,32500,Tasa expedición de documentos,3000.0,0.0,3000.0,1988.2
+1.0,2019.0,32600,Tasa Retirada de Vehículos,3000.0,0.0,3000.0,6798.8
+1.0,2019.0,33100,"Tasa Uso Suelos, Entrada Vehiculos Aceras",15500.0,0.0,15500.0,17633.14
+1.0,2019.0,33200,"Tasa Uso Suelos, Subsuelo, Vuelo Compañias Sum",115000.0,0.0,115000.0,49195.24
+1.0,2019.0,33600,"Tasa Uso Suelo, Venta Ambulante Semanal",16000.0,0.0,16000.0,10778.43
+1.0,2019.0,33601,"Tasa Uso Suelo, con Mesas y sillas finalidad luc",25000.0,0.0,25000.0,21188.72
+1.0,2019.0,33602,"Tasa Uso Suelo, con Contenedores Mat Construcc",9000.0,0.0,9000.0,9652.84
+1.0,2019.0,33800,Compensación Telefónica España SA,40000.0,0.0,40000.0,61136.08
+1.0,2019.0,33900,Tasa por Uso de Instalaciones Municipales,5500.0,0.0,5500.0,5041.0
+1.0,2019.0,34200,Servicios  Escuelas impartidas en Casa de Cultura,165000.0,0.0,165000.0,111263.4
+1.0,2019.0,34203,Prec Publicos Actividades Serv Sociales,2700.0,0.0,2700.0,2517.0
+1.0,2019.0,34300,Precio P. Actividades Cursos Deportivos,400000.0,0.0,400000.0,347719.91
+1.0,2019.0,34301,Precio P. Actividades Cursos Piscina Municipal,60000.0,0.0,60000.0,49130.17
+1.0,2019.0,34302,Precio P. Uso de Instalaciones Deportivas,70000.0,0.0,70000.0,46005.61
+1.0,2019.0,34400,Preci Patrimonial Ferias Comercio Turismo,12000.0,0.0,12000.0,14439.09
+1.0,2019.0,34401,Prec Publico Fiestas Locales,50000.0,0.0,50000.0,49893.08
+1.0,2019.0,34402,Prec Publico Actividades Juveniles,1000.0,25711.0,26711.0,26711.0
+1.0,2019.0,34403,Entradas Teatro Municipal,35000.0,0.0,35000.0,29234.68
+1.0,2019.0,34900,Convenio Ecoembes Basura selectiva,55000.0,0.0,55000.0,35173.24
+1.0,2019.0,34901,Precio Público Venta de Libros Cultura,0.0,0.0,0.0,580.0
+1.0,2019.0,35000,Contribuciones Especiales para Obras,141616.44,0.0,141616.44,0.0
+1.0,2019.0,38901,Reintegro de Gastos,0.0,18150.0,18150.0,26683.52
+1.0,2019.0,38902,Reintegro de Gastos Ejercicios Cerrados,0.0,0.0,0.0,0.0
+1.0,2019.0,39190,Multas Administrativas Generales,50000.0,0.0,50000.0,76806.53
+1.0,2019.0,39211,Recargos de Apremio,85000.0,0.0,85000.0,93337.02
+1.0,2019.0,39212,Recargos de Apremio,0.0,0.0,0.0,566.11
+1.0,2019.0,39300,Intereses de Demora,45000.0,0.0,45000.0,33132.11
+1.0,2019.0,39301,Reintegro de Gastos Procedimientos Ejecutivos,15000.0,0.0,15000.0,841.41
+1.0,2019.0,39710,Aprovechamiento Urbanistico Los Linarejo 10%,567297.0,0.0,567297.0,0.0
+1.0,2019.0,39900,Imprevistos,100.0,0.0,100.0,0.0
+1.0,2019.0,42000,Participación Tributos del Estado,2100000.0,0.0,2100000.0,2149572.73
+1.0,2019.0,42090,Otras transferencias del Estado de Juzgado de paz y Otros,3750.0,19033.41,22783.41,19223.24
+1.0,2019.0,45002,Transferencias Corrientes Comunidad de Madrid,134000.0,33067.8,167067.8,69246.93
+1.0,2019.0,45003,Transferencias Corrientes Comunidad Madrid BESCAM,727480.0,0.0,727480.0,357240.0
+1.0,2019.0,45004,Transferencias Corrientes Comunidad Madrid PRISMA,203663.0,0.0,203663.0,0.0
+1.0,2019.0,45050,Transferencias Corrientes Empleo Activacion,0.0,39960.0,39960.0,0.0
+1.0,2019.0,45051,Transferencias Corrientes Empleo Reactivacion,0.0,159840.0,159840.0,0.0
+1.0,2019.0,46600,Transferencias corrientes FEMP,0.0,0.0,0.0,0.0
+1.0,2019.0,48000,Aportaciones Privadas sin animo de lucro,100.0,6461.0,6561.0,49374.97
+1.0,2019.0,48001,Aportaciones Privadas Juventud,100.0,0.0,100.0,0.0
+1.0,2019.0,48002,Aportaciones Privadas Deportes,100.0,0.0,100.0,0.0
+1.0,2019.0,52000,Intereses de Depósito,100.0,0.0,100.0,0.0
+1.0,2019.0,54100,Producto Arrendamiento de fincas urbanas,5500.0,0.0,5500.0,1272.31
+1.0,2019.0,54101,Explotacion Bares e Instalaciones Municipales,20000.0,0.0,20000.0,0.0
+1.0,2019.0,54200,Poligono Ganadero y Pastos,9500.0,0.0,9500.0,10836.83
+1.0,2019.0,55000,Concesiones Administrativas,440000.0,0.0,440000.0,390083.45
+1.0,2019.0,55400,Aprovechamientos Cinegéticos,2950.0,0.0,2950.0,28754.73
+1.0,2019.0,55401,Ocupaciones Monte de U.P  y Aprovechamientos Fores,34000.0,0.0,34000.0,20324.11
+1.0,2019.0,60000,Enajenacion de Solares  y Terrenos Urbanos,70000.0,0.0,70000.0,0.0
+1.0,2019.0,75080,Subvenciones PIRMA de Capital Comunidad de Madrid,2035550.16,0.0,2035550.16,159845.63
+1.0,2019.0,75081,Subvenciones CapitalComunidad de Madrid. Compostaje,0.0,0.0,0.0,0.0
+1.0,2019.0,79000,Subvenciones Capital Comunidad Europea,0.0,0.0,0.0,0.0
+1.0,2019.0,87000,Remanetes de Tesoreria para Gastos Generales,0.0,1983419.86,1983419.86,0.0
+1.0,2019.0,87001,Remanetes de Tesoreria para Suplmentos de Crédito,0.0,1543550.17,1543550.17,0.0
+1.0,2019.0,87003,Remanentes de  tesoreria IFS 2016,0.0,1795318.01,1795318.01,0.0
+1.0,2019.0,91300,Préstamo a largo plazo de entidades fuera del sector público,600000.0,0.0,600000.0,450000.0
+#,,,,14563673.6,5624511.25,20188184.85,11140297.33
