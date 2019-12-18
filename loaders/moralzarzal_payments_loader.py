@@ -10,6 +10,7 @@ payments_mapping = {
     'default': {'fc_code': 2, 'date': 5, 'payee': 7, 'description': 8, 'amount': 9},
     '2017': {'fc_code': 1, 'date': 3, 'payee': 5, 'description': 6, 'amount': 7},
     '2018': {'fc_code': 1, 'date': 3, 'payee': 5, 'description': 6, 'amount': 7},
+    '2019': {'fc_code': 1, 'date': 3, 'payee': 5, 'description': 6, 'amount': 7},
 }
 
 
